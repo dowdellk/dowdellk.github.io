@@ -63,7 +63,7 @@ blockquote {
 }
 
 nav {
-      float:none;
+      float:left;
       display: flex;
       flex-wrap:wrap;
       flex-direction: column;
