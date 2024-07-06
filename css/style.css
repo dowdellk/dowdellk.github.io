@@ -212,7 +212,7 @@ article>p>a {
 footer {
     clear:both;
     overflow:auto;
-    margin:3% 2%;
+    margin-left:14rem;
     border-top: 1px solid #333;
 }
 
