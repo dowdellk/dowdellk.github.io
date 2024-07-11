@@ -7,7 +7,7 @@ header,
 main {
     
     margin:0 auto;
-    width:80%;
+    width:90%;
 }
 
 table {
@@ -16,7 +16,7 @@ table {
   letter-spacing: 1px;
   font-size: 0.75rem;
     width:100%;
-    max-width:2000px;
+    max-width:1920px;
 }
 
 td, th {
