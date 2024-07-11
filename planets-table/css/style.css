@@ -16,7 +16,7 @@ table {
   letter-spacing: 1px;
   font-size: 0.75rem;
     width:100%;
-    max-width:1920px;
+    max-width:fit-content;
 }
 
 td, th {
