@@ -77,7 +77,17 @@ h2 {
 
 }
 
+h3 {
+    text-transform: uppercase;
+    font-size:2rem;
+    margin: 0;
+    letter-spacing:.25rem;
+    color:darkred;
+    font-family:'Alfa Slab One', Garamond, serif;
+    text-align:center;
+    
 
+}
 /* Section & Paragraph */
 
 
