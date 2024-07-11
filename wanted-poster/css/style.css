@@ -82,12 +82,13 @@ h3 {
     font-size:2rem;
     margin: 0;
     letter-spacing:.25rem;
-    color:darkred;
+    color:black;
+    text-shadow:none;
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
     
-
 }
+
 /* Section & Paragraph */
 
 
