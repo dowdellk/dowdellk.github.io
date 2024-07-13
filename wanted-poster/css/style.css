@@ -103,13 +103,13 @@ h4 {
 }
 
 h5 {
-    text-transform: uppercase;
+    text-transform:none;
     font-size:1rem;
     margin-top:.25rem;
     letter-spacing: .25rem;
     color:#fff;
     background-color:#333;
-    text-shadow:.09375rem .09375rem .09375rem #000;
+    text-shadow:none;
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
     font-weight:normal;
