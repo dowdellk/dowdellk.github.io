@@ -121,8 +121,16 @@ h5 {
 
 /* Section & Paragraph */
 
+section {
+    margin-top:.5rem;
+    
+}
 
-
+body {
+    margin-bottom:.5rem;
+    margin-left:auto;
+    margin-right:auto;
+}
 /* Image & Figure */
 
 
