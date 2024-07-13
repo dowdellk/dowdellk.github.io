@@ -163,8 +163,11 @@ footer {
     padding-left:1rem;
     padding-right:1rem;
     border-top-width:2rem;
-    color:#333;
+    border-color:#333;
+    border-style:solid;
 }
+
+
 /* Image & Figure */
 
 
