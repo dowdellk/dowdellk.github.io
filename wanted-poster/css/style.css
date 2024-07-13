@@ -163,8 +163,8 @@ footer {
     padding-left:1rem;
     padding-right:1rem;
     border-top-width:2rem;
-    border-color:#333;
-    border-style:solid;
+    border-top-color:#333;
+    border-top-style:solid;
 }
 
 
