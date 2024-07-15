@@ -83,7 +83,7 @@ header, footer {
 
 @font-face {
     font-family:Josefin Slab;
-    src: url(/fonts/josefinslab-regular.ttf) format('truetype');
+    src: url(../fonts/josefinslab-regular.ttf) format('truetype');
     font-style:normal;
     font-weight:normal;
 }
@@ -91,7 +91,7 @@ header, footer {
 @font-face {
 
     font-family:Montserrat;
-    src: url(/fonts/montserrat-regular.ttf) format('opentype');
+    src: url(../fonts/montserrat-regular.ttf) format('opentype');
     font-style:normal;
     font-weight:normal;
 }
@@ -104,7 +104,12 @@ html {
     font-size:14px;
 }
 
-
+h1 {
+    font-family:Josefin Slab, Cambria, serif;
+    font-size:3.75rem;
+    margin:1.125rem;
+    text-align:center;
+}
 
 
 /* Link Styling */
