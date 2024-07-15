@@ -1,19 +1,6 @@
 /* General setup */
 
-@font-face {
-    font-family:Josefin Slab;
-    src: url(../fonts/josefinslab-regular.ttf);
-    font-style:normal;
-    font-weight:normal;
-}
 
-@font-face {
-
-    font-family:Montserrat;
-    src: url(../fonts/montserrat-regular.ttf);
-    font-style:normal;
-    font-weight:normal;
-}
 
 * {
     box-sizing: border-box;
@@ -94,7 +81,20 @@ header, footer {
 
 /* Imported Typfaces */
 
+@font-face {
+    font-family:Josefin Slab;
+    src: url(../fonts/josefinslab-regular.ttf);
+    font-style:normal;
+    font-weight:normal;
+}
 
+@font-face {
+
+    font-family:Montserrat;
+    src: url(../fonts/montserrat-regular.ttf);
+    font-style:normal;
+    font-weight:normal;
+}
 
 
 
