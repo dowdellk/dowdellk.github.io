@@ -142,7 +142,7 @@ a:link, a:visited {
     color:#33658A
 }
 
-a.long-list:hover {
+a:hover.long-list {
 
     text-transform:uppercase;
 }
@@ -154,6 +154,7 @@ a {
 a:focus, a:hover {
     text-decoration:none;
 }
+
 
 ul, ol {
     margin-top:1rem;
