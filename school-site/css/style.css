@@ -118,6 +118,13 @@ h2 {
     letter-spacing:0.125rem;
 }
 
+h2 + p {
+    font-size:.75rem;
+    letter-spacing:.01325rem;
+    word-spacing:.125rem;
+
+}
+
 /* Link Styling */
 
 
