@@ -82,7 +82,7 @@ header, footer {
 /* Imported Typfaces */
 
 @font-face {
-    font-family:Josefin Slab;
+    font-family:'Josefin Slab';
     src: url(../fonts/josefinslab-regular.ttf);
     font-style:normal;
     font-weight:normal;
@@ -90,7 +90,7 @@ header, footer {
 
 @font-face {
 
-    font-family:Montserrat;
+    font-family:'Montserrat';
     src: url(../fonts/montserrat-regular.ttf);
     font-style:normal;
     font-weight:normal;
