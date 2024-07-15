@@ -83,7 +83,7 @@ header, footer {
 
 @font-face {
     font-family:Josefin Slab;
-    src: url(../fonts/josefinslab-regular.ttf) format('truetype');
+    src: url(/fonts/josefinslab-regular.ttf) format('truetype');
     font-style:normal;
     font-weight:normal;
 }
@@ -91,7 +91,7 @@ header, footer {
 @font-face {
 
     font-family:Montserrat;
-    src: url(../fonts/montserrat-regular.ttf) format('opentype');
+    src: url(/fonts/montserrat-regular.ttf) format('opentype');
     font-style:normal;
     font-weight:normal;
 }
