@@ -100,9 +100,10 @@ header, footer {
 
 /* Typography Styles */
 
-/* html {
+html {
+    font-size:16px;
 
-} */
+}
 
 h1 {
     font-family:Josefin Slab, Georgia, serif;
