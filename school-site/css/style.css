@@ -126,6 +126,13 @@ p {
     word-spacing:.125rem;
     text-indent:1.5rem;
 }
+
+figcaption {
+    font-size:.75rem;
+    margin-bottom:2rem;
+}
+
+
 /* Link Styling */
 
 
