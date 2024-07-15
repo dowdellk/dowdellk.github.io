@@ -1,5 +1,18 @@
 /* General setup */
 
+@font-face {
+    font-family:Josefin Slab;
+    src: url(../fonts/josefinslab-regular.ttf);
+    font-style:normal;
+    font-weight:normal;
+}
+@font-face {
+
+    font-family:Alfa Slab One;
+    src: url(../fonts/montserrat-regular.ttf);
+    font-style:normal;
+    font-weight:normal;
+
 * {
     box-sizing: border-box;
 }
