@@ -136,6 +136,17 @@ figcaption {
 
 /* Link Styling */
 
+a:link {
+    color:#33658A
+}
+a:visited {
+    color:#33658A
+}
+
+a {
+    outline:none;
+    
+}
 
 
 
