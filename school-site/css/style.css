@@ -142,6 +142,11 @@ a:link, a:visited {
     color:#33658A
 }
 
+a.long-list:hover {
+
+    text-transform:uppercase;
+}
+
 a {
     outline:none; 
 }
@@ -164,6 +169,7 @@ ul {
 ol {
     list-style-type:lower-alpha;
 }
+
 
 
 
