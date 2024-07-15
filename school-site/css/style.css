@@ -101,11 +101,11 @@ header, footer {
 /* Typography Styles */
 
 html {
-    font-size:14px;
+    font-size:12px;
 }
 
 h1 {
-    font-family:Josefin Slab, Cambria, serif;
+    font-family:Josefin Slab, Georgia, serif;
     font-size:3.75rem;
     margin:1.125rem;
     letter-spacing:0.125rem;
@@ -113,18 +113,19 @@ h1 {
 }
 
 h2 {
-    font-family:Josefin Slab, Cambria, serif;
+    font-family:Josefin Slab, Georgia, serif;
     font-size:1.5rem;
     letter-spacing:0.125rem;
 }
 
-h2 + p {
+p {
+    
+    font-family:Montserrat, Helvetica, sans-serif;
     font-size:.75rem;
-    letter-spacing:.01325rem;
+    letter-spacing:.03125rem;
     word-spacing:.125rem;
-
+    text-indent:1.5rem;
 }
-
 /* Link Styling */
 
 
