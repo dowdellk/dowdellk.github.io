@@ -103,8 +103,6 @@ header, footer {
 html {
     font-size:16px;
     font-family:Montserrat, Helvetica, sans-serif;
-    
-
 }
 
 h1 {
@@ -128,13 +126,15 @@ p {
     letter-spacing:.03125rem;
     word-spacing:.125rem;
     text-indent:1.5rem;
-    line-height:110%;
 }
 
 li {
     font-size:.75rem;
     letter-spacing:.03125rem;
     word-spacing:.125rem;
+}
+
+p, li {
     line-height:110%;
 }
 
