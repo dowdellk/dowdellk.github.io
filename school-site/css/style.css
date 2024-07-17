@@ -8,6 +8,7 @@
 
 html {
     font-size:16px;
+    line-height:110%;
 }
 
 body {
@@ -132,10 +133,6 @@ li {
     font-size:.75rem;
     letter-spacing:.03125rem;
     word-spacing:.125rem;
-}
-
-p, li {
-    line-height:110%;
 }
 
 figcaption {
