@@ -129,6 +129,12 @@ p {
     text-indent:1.5rem;
 }
 
+li {
+    font-size:.75rem;
+    letter-spacing:.03125rem;
+    word-spacing:.125rem;
+}
+
 figcaption {
     font-family:Montserrat, Helvetica, sans-serif;
     font-size:.75rem;
