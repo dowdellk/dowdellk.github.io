@@ -128,12 +128,14 @@ p {
     letter-spacing:.03125rem;
     word-spacing:.125rem;
     text-indent:1.5rem;
+    line-height:110%;
 }
 
 li {
     font-size:.75rem;
     letter-spacing:.03125rem;
     word-spacing:.125rem;
+    line-height:110%;
 }
 
 figcaption {
