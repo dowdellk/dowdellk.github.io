@@ -60,19 +60,16 @@
     text-transform:uppercase;
 }
 
-header {
-    border-top:.2rem solid #094d3e;
-    border-bottom:.2rem solid #094d3e;
-
-}
-
 h1 {
     font-family:Rozha One, Georgia, serif;
     font-size:3rem;
     text-align:center;
-    
 }
 
-
+nav a {
+    margin:1rem;
+    border-top:.2rem solid #094d3e;
+    border-bottom:.2rem solid #094d3e;
+}
 
 
