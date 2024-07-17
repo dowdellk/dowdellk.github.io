@@ -64,6 +64,8 @@ h1 {
     font-family:Rozha One, Georgia, serif;
     font-size:3rem;
     text-align:center;
+    padding-bottom:1rem;
+    padding-top:1rem;
 }
 
 nav {
