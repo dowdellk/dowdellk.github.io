@@ -48,6 +48,19 @@
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
+@font-face {
+    font-family:Rozha One;
+    src: url(../fonts/rozhaone-regular.ttf) format('truetype');
+    font-style:normal;
+    font-weight:normal;
+}
+
 .highlight {
     background-color:aquamarine;
+}
+
+h1 {
+    font-family:Rozha One, Georgia, serif;
+    font-size:3rem;
+    text-align:center;
 }
