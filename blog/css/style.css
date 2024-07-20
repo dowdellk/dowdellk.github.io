@@ -56,7 +56,9 @@ body {
 
 section {
     float: left;
+    box-sizing:border-box;
 }
+
 section:nth-child(1) {
     width:60rem;
 }
