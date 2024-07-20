@@ -55,12 +55,16 @@ body {
 }
 
 section {
-        float: left;
-        min-width: 20rem;
-        width:50%;
+    float: left;
+    min-width: 20rem;
+    width:50%;
+}
+section:nth-child(1) {
+    width:30rem;
 }
 
 section:nth-child(2) {
+    border:left;
     border-left-color:#343030;
     border-left-width:.5rem;
 }
