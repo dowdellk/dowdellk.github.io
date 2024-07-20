@@ -48,7 +48,7 @@
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
-body{
+body {
     margin:1rem;
 }
 
@@ -109,3 +109,4 @@ nav a:visited {
 nav a:hover {
     color:#343030;
 }
+
