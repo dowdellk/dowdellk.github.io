@@ -56,11 +56,9 @@ body {
 
 section {
     float: left;
-    min-width: 20rem;
-    width:50%;
 }
 section:nth-child(1) {
-    width:30rem;
+    width:60rem;
 }
 
 section:nth-child(2) {
