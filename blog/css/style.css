@@ -100,3 +100,7 @@ nav a {
 nav a:visited {
     text-decoration-line:line-through;
 }
+
+nav a:hover {
+    color:#343030;
+}
