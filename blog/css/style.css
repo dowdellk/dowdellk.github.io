@@ -81,5 +81,8 @@ nav a {
     font-size:2rem;
     text-decoration:none;
     color:black;
-    
+}
+
+nav a:visited {
+    text-decoration-line:line-through;
 }
