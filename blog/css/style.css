@@ -64,6 +64,7 @@ h1 {
     font-family:Rozha One, Georgia, serif;
     font-size:3rem;
     text-align:center;
+    text-shadow:.1rem;
     padding-bottom:1rem;
     padding-top:1rem;
 }
