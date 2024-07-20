@@ -56,22 +56,8 @@ body {
 
 section {
         float: left;
-        min-width: 22.5rem;
+        min-width: 20rem;
         width:50%;
-}
-
-.column {
-    float:left;
-}
-
-.left {
-    width:75%;
-}
-
-.right {
-    width:25%;
-    border-left-color:#222;
-    border-left-width:.25rem;
 }
 
 @font-face {
