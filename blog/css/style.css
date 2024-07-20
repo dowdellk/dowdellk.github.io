@@ -48,6 +48,10 @@
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
 
+body{
+    margin:1rem;
+}
+
 @font-face {
     font-family:Rozha One;
     src: url(../fonts/rozhaone-regular.ttf) format('opentype');
