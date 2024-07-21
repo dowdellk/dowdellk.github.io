@@ -138,7 +138,7 @@ nav a:active {
 
 .article-image {
     float:left;
-    display:flex
+    display:flex;
     width:10rem;
     height:12rem;
 }
