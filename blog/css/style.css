@@ -121,11 +121,11 @@ nav a:visited {
 }
 
 nav a:hover {
-    color:#384ab3;
+    color:#4c60cd;
 }
 
 nav a:active {
-    color:red;
+    color:rgb(99, 168, 220);
 }
 
 .article-image {
