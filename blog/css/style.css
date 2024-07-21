@@ -70,7 +70,7 @@ body {
 .highlight {
     background-color:rgb(115, 230, 191);
     text-transform:uppercase;
-    text-decoration:solid overline underline rgb(6, 55, 6);
+    text-decoration:solid overline underline .3rem rgb(6, 55, 6);
 }
 
 h1 {
