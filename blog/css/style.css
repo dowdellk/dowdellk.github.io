@@ -117,3 +117,6 @@ nav a:hover {
     margin-right:1rem;
 }
 
+.main-section {
+    text-wrap:wrap;
+}
