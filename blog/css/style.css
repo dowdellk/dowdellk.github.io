@@ -68,8 +68,10 @@ body {
 }
 
 .highlight {
-    background-color:aquamarine;
+    background-color:rgb(94, 220, 178);
     text-transform:uppercase;
+    text-decoration:wavy overline rgb(6, 55, 6);
+    text-decoration:wavy underline rgb(6, 55, 6);
 }
 
 h1 {
