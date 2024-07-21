@@ -80,7 +80,6 @@ body {
     text-transform:uppercase;
     text-decoration:solid overline underline .3rem rgb(6, 55, 6);
     letter-spacing:.3rem;
-    transform:rotate(-20deg);
 }
 
 h1 {
@@ -90,6 +89,7 @@ h1 {
     text-shadow:.3rem #595b60;
     padding-bottom:1rem;
     padding-top:1rem;
+    transform:rotate(-10deg);
 }
 
 h2 {
