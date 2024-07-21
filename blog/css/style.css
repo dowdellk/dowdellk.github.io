@@ -135,5 +135,6 @@ nav a:active {
 }
 
 .main-section {
+    float:left;
     display:flex;
 }
