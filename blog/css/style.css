@@ -122,6 +122,10 @@ nav a:hover {
     color:#3f466d;
 }
 
+nav a:active {
+    color:red;
+}
+
 .article-image {
     float:left;
     width:10rem;
