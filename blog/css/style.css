@@ -47,6 +47,13 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size:16px;
+}
 
 
 @font-face {
