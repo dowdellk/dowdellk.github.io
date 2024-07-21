@@ -135,4 +135,5 @@ nav a:active {
 
 .main-section {
     text-wrap:wrap;
+    display:flex;
 }
