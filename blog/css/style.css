@@ -83,6 +83,14 @@ h2 {
     font-size:1.5rem;
     text-align:left;
     padding-top:1.5rem;
+    padding-bottom:.3rem;
+}
+
+h3 {
+    font-family:Roboto, Helvetica, sans-serif;
+    font-size:1.2rem;
+    text-align:left;
+    padding-top:.5rem;
     padding-bottom:.5rem;
 }
 
@@ -119,5 +127,4 @@ nav a:hover {
 
 .main-section {
     text-align:left;
-    text-wrap:balance;
 }
