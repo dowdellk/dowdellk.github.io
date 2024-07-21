@@ -85,7 +85,7 @@ body {
 h1 {
     font-family:Rozha One, Georgia, serif;
     font-size:3rem;
-    text-transform:rotate(20deg);
+    transform:rotate(-20deg);
     text-align:center;
     text-shadow:.3rem #595b60;
     padding-bottom:1rem;
