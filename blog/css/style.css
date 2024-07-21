@@ -80,12 +80,12 @@ body {
     text-transform:uppercase;
     text-decoration:solid overline underline .3rem rgb(6, 55, 6);
     letter-spacing:.3rem;
+    transform:rotate(-20deg);
 }
 
 h1 {
     font-family:Rozha One, Georgia, serif;
     font-size:3rem;
-    transform:rotate(-20deg);
     text-align:center;
     text-shadow:.3rem #595b60;
     padding-bottom:1rem;
