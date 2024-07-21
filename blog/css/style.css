@@ -86,7 +86,7 @@ h1 {
     font-family:Rozha One, Georgia, serif;
     font-size:3rem;
     text-align:center;
-    text-shadow:.8rem #595b60;
+    text-shadow:#595b60;
     padding-bottom:1rem;
     padding-top:1rem;
     transform:rotate(-8deg);
