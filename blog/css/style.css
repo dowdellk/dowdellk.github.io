@@ -129,5 +129,5 @@ nav a:hover {
 }
 
 .main-section {
-    text-align:left;
+    text-wrap:wrap;
 }
