@@ -55,6 +55,9 @@ html {
     font-size:16px;
 }
 
+p {
+    font-family:Roboto, Helvetica, sans-serif;
+}
 
 @font-face {
     font-family:Rozha One;
