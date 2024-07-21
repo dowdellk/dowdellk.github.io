@@ -139,8 +139,6 @@ nav a:active {
 .article-image {
     float:left;
     display:flex;
-    width:10rem;
-    height:44rem;
 }
 
 .main-section {
