@@ -162,6 +162,7 @@ nav a:active {
     background-color:rgb(177, 237, 217);
     padding:.1rem;
     margin:0;
+    caption-side:bottom;
 }
 
 figcaption {
