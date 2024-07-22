@@ -162,3 +162,8 @@ nav a:active {
     padding:.1rem;
     margin:0;
 }
+
+figcaption {
+    text-align:center;
+    font-size:.8rem;
+}
