@@ -158,16 +158,16 @@ nav a:active {
 .figurerow {
     width:33.3%;
     float:left;
-    display:flex;
+    display:block;
     background-color:rgb(177, 237, 217);
     padding:.1rem;
     margin:0;
-    caption-side:bottom;
 }
 
 figcaption {
     text-align:center;
     font-size:1rem;
+    position:absolute;
 }
 
 img {
