@@ -154,6 +154,7 @@ nav a:active {
 }
 
 .figurerow {
+    float:left;
     width:33.3%;
     height:33.3%;
     background-color:rgb(177, 237, 217);
