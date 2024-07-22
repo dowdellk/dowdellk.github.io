@@ -153,12 +153,9 @@ nav a:active {
     display:inline;
 }
 
-figure {
+.figurerow {
     width:30%;
     height:30%;
-}
-
-.figurerow {
     float:left;
     display:flex;
     background-color:rgb(177, 237, 217);
