@@ -167,4 +167,5 @@ nav a:active {
 figcaption {
     text-align:center;
     font-size:.8rem;
+    caption-side:bottom;
 }
