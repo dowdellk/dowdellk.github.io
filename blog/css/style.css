@@ -79,9 +79,11 @@ body {
 }
 
 .highlight {
+    border-style:dotted;
+    border-width:.3rem;
     background-color:rgb(115, 230, 191);
     text-transform:uppercase;
-    text-decoration:solid overline underline .3rem rgb(6, 55, 6);
+    text-decoration:none;
     letter-spacing:.3rem;
 }
 
