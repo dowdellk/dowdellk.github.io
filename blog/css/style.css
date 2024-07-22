@@ -169,3 +169,8 @@ figcaption {
     font-size:.8rem;
     caption-side:bottom;
 }
+
+img {
+    max-width:fit-content;
+    max-height:80%;
+}
