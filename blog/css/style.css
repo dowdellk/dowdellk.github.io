@@ -162,14 +162,11 @@ nav a:active {
     background-color:rgb(177, 237, 217);
     padding:.1rem;
     margin:0;
-    display:table;
 }
 
 figcaption {
-    display:table-caption;
     text-align:center;
     font-size:1rem;
-    caption-side:bottom;
 }
 
 img {
