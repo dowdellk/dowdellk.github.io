@@ -158,10 +158,12 @@ nav a:active {
 .figurerow {
     width:33.3%;
     float:left;
-    display:block;
+    display:flex;
     background-color:rgb(177, 237, 217);
     padding:.1rem;
     margin:0;
+    position:relative;
+    flex-direction:column;
 }
 
 figcaption {
