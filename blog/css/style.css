@@ -160,4 +160,5 @@ nav a:active {
     height:10%;
     background-color:rgb(177, 237, 217);
     padding:.1rem;
+    margin:0;
 }
