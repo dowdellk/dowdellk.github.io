@@ -178,9 +178,8 @@ img {
 }
 
 aside {
-    display:table-column;
     float:right;
-
+    width:25%;
 }
 
 
