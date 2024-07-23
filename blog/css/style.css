@@ -130,17 +130,17 @@ nav a {
     color:black;
 }
 
-nav a:visited {
-    text-decoration-line:line-through;
-}
-
 nav a:hover {
     color:#4c60cd;
+    text-decoration-line:line-through;
+    transform:rotate(2deg);
 }
 
 nav a:active {
     color:rgb(99, 168, 220);
 }
+
+
 
 .article-image {
     float:left;
