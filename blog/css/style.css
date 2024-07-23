@@ -153,11 +153,9 @@ nav a:active {
 .main-section {
     float:left;
     display:inline;
-    width:75%;
 }
 
 .subsection {
-    width:75%;
     float:left;
     display:flex;
     background-color:rgb(177, 237, 217);
