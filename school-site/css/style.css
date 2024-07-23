@@ -47,7 +47,7 @@ figcaption {
 
 .long-list {
     margin-top:0;
-    line-height:120%;
+    line-height:1.2;
 }
 
 nav {
@@ -177,7 +177,7 @@ ul, ol {
     margin-bottom:1rem;
     margin-left:0;
     margin-right:0;
-    line-height: 120%;;
+    line-height: 1.2;
 }
 
 /* List Styling */
