@@ -28,6 +28,7 @@ section {
     float: left;
     min-width: 22.5rem;
     width:50%;
+    line-height:125%;
 }   
 
 figure {
