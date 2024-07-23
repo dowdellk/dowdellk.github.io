@@ -146,8 +146,8 @@ nav a:active {
     display:flex;
     margin-left:0;
     margin-top:0;
-    margin-bottom:.8rem;
-    margin-right:.8rem;
+    margin-bottom:.5rem;
+    margin-right:.2rem;
 }
 
 .main-section {
