@@ -21,7 +21,6 @@ body {
 main {
     overflow:auto;
     min-width:45rem;
-    line-height:150%;
     
 }
 
@@ -48,6 +47,7 @@ figcaption {
 
 .long-list {
     margin-top:0;
+    line-height:120%;
 }
 
 nav {
