@@ -47,6 +47,10 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
+* {
+    box-sizing:border-box;
+}
+
 main {
     display:grid;
     grid-template-columns:repeat (4, 6fr);
