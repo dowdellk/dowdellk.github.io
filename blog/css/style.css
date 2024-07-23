@@ -160,7 +160,7 @@ nav a:active {
 .subsection {
     float:left;
     display:flex;
-    padding:.1rem;
+    padding:0rem;
     margin:0;
 }
 
