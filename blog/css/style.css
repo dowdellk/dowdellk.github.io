@@ -195,7 +195,7 @@ img {
 aside {
     float:right;
     width:25%;
-    display:block;
+    display:flex;
 }
 
 
