@@ -170,6 +170,7 @@ nav a:active {
 .main-section {
     float:left;
     display:inline;
+    max-width:75%;
 }
 
 .subsection {
@@ -177,6 +178,7 @@ nav a:active {
     display:flex;
     padding:0rem;
     margin:0;
+    max-width:75%;
 }
 
 .figurerow {
