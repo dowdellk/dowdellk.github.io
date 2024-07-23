@@ -47,7 +47,7 @@ figcaption {
 
 .long-list {
     margin-top:0;
-    line-height:130%;
+    line-height:140%;
 }
 
 nav {
@@ -127,7 +127,7 @@ p {
     letter-spacing:.03125rem;
     word-spacing:.125rem;
     text-indent:1.5rem;
-    line-height:130%;
+    line-height:140%;
 }
 
 .pstandalone {
@@ -135,14 +135,14 @@ p {
     font-size:.75rem;
     letter-spacing:.03125rem;
     word-spacing:.125rem;
-    line-height:130%;
+    line-height:140%;
 }
 
 li {
     font-size:.75rem;
     letter-spacing:.03125rem;
     word-spacing:.125rem;
-    line-height:130%;
+    line-height:140%;
 }
 
 figcaption {
@@ -177,7 +177,7 @@ ul, ol {
     margin-bottom:1rem;
     margin-left:0;
     margin-right:0;
-    line-height: 130%;
+    line-height: 140%;
 }
 
 /* List Styling */
