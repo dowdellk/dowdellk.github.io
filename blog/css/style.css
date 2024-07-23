@@ -153,6 +153,7 @@ nav a:active {
 .main-section {
     float:left;
     display:inline;
+    width:75%;
 }
 
 .figurerow {
