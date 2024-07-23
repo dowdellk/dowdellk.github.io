@@ -158,11 +158,13 @@ nav a:active {
 .subsection {
     float:left;
     display:flex;
-    background-color:rgb(177, 237, 217);
     padding:.1rem;
     margin:0;
 }
 
+.figurerow {
+    background-color:rgb(159, 244, 216);
+}
 figcaption {
     font-family:Roboto, Helvetica, sans-serif;
     text-align:center;
