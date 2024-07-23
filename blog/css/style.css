@@ -144,7 +144,7 @@ nav a:active {
 .article-image {
     float:left;
     display:flex;
-    margin-left:0;
+    margin-left:1rem;
     margin-top:0;
     margin-bottom:.5rem;
     margin-right:.6rem;
