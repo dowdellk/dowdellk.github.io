@@ -78,6 +78,10 @@ body {
     margin-right:2rem;
 }
 
+main {
+    overflow:auto;
+}
+
 .highlight {
     border-style:dotted;
     border-width:.3rem;
