@@ -28,7 +28,6 @@ section {
     float: left;
     min-width: 22.5rem;
     width:50%;
-    line-height:128%;
 }   
 
 figure {
@@ -127,7 +126,7 @@ p {
     letter-spacing:.03125rem;
     word-spacing:.125rem;
     text-indent:1.5rem;
-    line-height:1rem;
+    line-height:125%;
 }
 
 .pstandalone {
@@ -135,13 +134,14 @@ p {
     font-size:.75rem;
     letter-spacing:.03125rem;
     word-spacing:.125rem;
-    line-height:1rem;
+    line-height:115%;
 }
 
 li {
     font-size:.75rem;
     letter-spacing:.03125rem;
     word-spacing:.125rem;
+    line-height:115%;
 }
 
 figcaption {
@@ -176,6 +176,7 @@ ul, ol {
     margin-bottom:1rem;
     margin-left:0;
     margin-right:0;
+    line-height:115%;
 }
 
 /* List Styling */
