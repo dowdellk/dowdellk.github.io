@@ -21,6 +21,7 @@ body {
 main {
     overflow:auto;
     min-width:45rem;
+    line-height:115%;
     
 }
 
