@@ -47,7 +47,7 @@
 
 
 /* ------ START WRITING YOUR CODE BELOW ------ */
-.wrapper {
+main {
     display:grid;
     grid-template-columns:75% 25%;
     grid-column-gap:1rem;
