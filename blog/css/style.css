@@ -183,6 +183,7 @@ nav a:active {
 
 .figurerow {
     background-color:rgb(159, 244, 216);
+    max-width:fit-content;
 }
 
 figcaption {
