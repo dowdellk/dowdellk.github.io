@@ -189,4 +189,5 @@ aside {
 .figureaside {
     max-width:70%;
     max-height:70%;
+    align-content: center;
 }
