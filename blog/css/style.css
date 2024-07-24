@@ -242,7 +242,7 @@ figcaption {
 }
 
 aside {
-    float:grid;
+    float:flex;
     border-left:.1rem solid black;
     padding-left:1rem; 
 }
