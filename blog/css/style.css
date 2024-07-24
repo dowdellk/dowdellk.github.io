@@ -180,7 +180,6 @@ figcaption {
 
 aside {
     float:right;
-    width:20%;
     display:block;
     border-left:1rem black;
     padding-left:1rem; 
