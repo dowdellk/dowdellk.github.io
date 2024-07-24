@@ -238,7 +238,7 @@ aside {
 }
 
 .imgrow {
-    max-width:grid;
+    max-width:auto;
 }
 
 .imgaside {
