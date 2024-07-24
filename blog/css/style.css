@@ -147,7 +147,7 @@ h3 {
     padding-bottom:.1rem;
 }
 
-nav {
+.topnav {
     border-top:.2rem solid #2f3131;
     border-bottom:.2rem solid #2f3131;
     padding-top:1.3rem;
@@ -181,9 +181,7 @@ nav a:active {
     color:black;
     text-transform:uppercase;
     font-family:Rozha One, Georgia, serif;
-    font-size:1.5rem;
-    border-top:none;
-    border-bottom:none;
+    font-size:1.8rem;
 }
 
 .subscribe a:hover {
