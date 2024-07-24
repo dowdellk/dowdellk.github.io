@@ -232,7 +232,7 @@ aside {
 }
 
 .imgrow {
-    max-width:50%;
+    max-width:fit-content;
 }
 
 .imgaside {
