@@ -188,7 +188,7 @@ nav a:active {
 }
 
 .subsection {
-    display:inline;
+    display:flex;
     padding-right:1rem;
 }
 
