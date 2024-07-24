@@ -100,22 +100,22 @@ body {
 .three {
     grid-column:1;
     grid-row:2;
-    width:auto;
-    height:auto;
+    width:fit-content;
+    height:fit-content;
 }
 
 .four {
     grid-column:2;
     grid-row:2;
-    width:auto;
-    height:auto;
+    width:fit-content;
+    height:fit-content;
 }
 
 .five {
     grid-column:3;
     grid-row:2;
-    width:auto;
-    height:auto;
+    width:fit-content;
+    height:fit-content;
 }
 
 .six {
