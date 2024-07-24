@@ -163,7 +163,7 @@ nav a:active {
 }
 
 .figurerow {
-    display:inline-flex;
+    display:block;
     background-color:rgb(159, 244, 216);
     background-size:contain;
     padding:0;
