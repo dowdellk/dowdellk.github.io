@@ -184,6 +184,7 @@ nav a:active {
     font-family:Rozha One, Georgia, serif;
     font-size:1.8rem;
     text-shadow:grey;
+    box-shadow:.5rem #2f3131;
 }
 
 .subscribe a:hover {
