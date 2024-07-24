@@ -167,7 +167,6 @@ nav a:active {
 
 .main-section {
     display:inline;
-    max-width:70%;
 }
 
 .subsection {
@@ -191,19 +190,9 @@ figcaption {
     display:block;
 }
 
-figure {
-    max-width:50%;
-    max-height:50%;
-}
-
 aside {
     float:right;
     display:block;
     border-left:1rem black;
     padding-left:1rem; 
-}
-
-
-.figureaside {
-   size:30%;
 }
