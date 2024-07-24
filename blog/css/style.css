@@ -218,7 +218,7 @@ nav a:active {
 
 .subsection {
     display:grid;
-    max-width:40rem;
+    position:relative;
 }
 
 .figurerow {
