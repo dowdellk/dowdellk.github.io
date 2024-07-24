@@ -255,4 +255,5 @@ aside {
 .imgaside {
     max-width:auto;
     object-fit:contain;
+    margin-left:0;
 }
