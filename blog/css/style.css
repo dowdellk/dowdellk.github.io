@@ -77,16 +77,24 @@ body {
 
 .wrapper {
     display:grid;
-    grid-template-columns: 80fr 20fr;
+    grid-template-columns: repeat(4, 1fr);
     gap:1rem;
+    grid-auto-rows: auto;
 }
 
 .one {
-    grid-column:80fr;
+    grid-column:1 / span 3;
+    grid-row:1;
 }
 
 .two {
-    grid-column:20fr;
+    grid-column:4;
+    grid-row:all;
+}
+
+.three {
+    grid-column:1 / span 3;
+    grid-row:2;
 }
 
 .highlight {
