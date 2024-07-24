@@ -254,8 +254,7 @@ aside {
 }
 
 .imgaside {
-    height:fit-content;
-    width:fit-content;
-    object-fit:contain;
+    height:auto;
+    width:auto;
     margin-left:0;
 }
