@@ -202,10 +202,6 @@ figcaption {
     padding-bottom:.5rem;
 }
 
-img {
-    max-width:fit-content;
-}
-
 aside {
     float:right;
     width:25%;
