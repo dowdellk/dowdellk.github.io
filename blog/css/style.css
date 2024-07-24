@@ -77,16 +77,16 @@ body {
 
 .wrapper {
     display:grid;
-    grid-template-columns: 75fr 25fr;
+    grid-template-columns: 80fr 20fr;
     gap:1rem;
 }
 
 .one {
-    grid-column:75fr;
+    grid-column:80fr;
 }
 
 .two {
-    grid-column:25fr;
+    grid-column:20fr;
 }
 
 .highlight {
