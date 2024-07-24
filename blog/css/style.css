@@ -235,7 +235,6 @@ nav a:active {
     padding-bottom:1.5rem;
     max-height:70%;
     caption-side:bottom;
-    object-fit:contain;
 }
 
 figcaption {
@@ -254,8 +253,10 @@ aside {
 
 .imgrow {
     max-width:auto;
+    object-fit:contain;
 }
 
 .imgaside {
-    max-width:10rem;
+    max-width:auto;
+    object-fit:contain;
 }
