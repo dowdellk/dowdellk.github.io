@@ -184,13 +184,13 @@ nav a:active {
 
 .main-section {
     display:block;
+    padding-right:1rem;
 }
 
 .subsection {
     display:inline;
     max-width:33.3%;
-    padding:0;
-    margin:0;
+    padding-right:1rem;
 }
 
 .figurerow {
@@ -209,7 +209,7 @@ figcaption {
 
 aside {
     float:right;
-    border-left:.2rem solid black;
+    border-left:.1rem solid black;
     padding-left:1rem; 
 }
 
