@@ -162,7 +162,7 @@ nav a:active {
 }
 
 .figurerow {
-    display:block;
+    display:inline-block;
     background-color:rgb(159, 244, 216);
     padding:0;
 }
