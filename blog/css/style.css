@@ -118,8 +118,8 @@ nav {
     padding-bottom:1.3rem;
     text-align:left;
     word-spacing:7rem;
-    margin-right:1rem;
-    margin-left:1rem;
+    margin-right:0;
+    margin-left:0;
 }
 
 nav a {
