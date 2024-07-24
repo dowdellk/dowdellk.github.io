@@ -147,13 +147,23 @@ nav a:active {
     background-color:blue;
 }
 
-.subscribe {
+.subscribe a {
     border:2rem;
     background-color: rgb(12, 74, 53);
     color:white;
     text-transform:uppercase;
     font-family:Rozha One, Georgia, serif;
     font-size:1rem;
+}
+
+.subscribe a:hover {
+    color:rgb(125, 123, 123);
+    text-decoration-line:underline;
+}
+
+.subscribe a:active {
+    color:aquamarine;
+    background-color:#2f3131;
 }
 
 .article-image {
