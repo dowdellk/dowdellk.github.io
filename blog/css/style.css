@@ -180,13 +180,14 @@ figcaption {
 
 aside {
     float:right;
-    display:block;
+    display:flex;
     border-left:1rem black;
     padding-left:1rem; 
 }
 
 
 .figureaside {
+    padding-left:1rem;
     max-width:70%;
     max-height:70%;
 }
