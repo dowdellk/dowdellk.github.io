@@ -232,7 +232,7 @@ figcaption {
 }
 
 aside {
-    float:right;
+    float:grid;
     border-left:.1rem solid black;
     padding-left:1rem; 
 }
