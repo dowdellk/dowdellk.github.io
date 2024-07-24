@@ -151,7 +151,7 @@ nav a:active {
 }
 
 .main-section {
-    display:flex;
+    display:block;
     max-width:70%;
 }
 
