@@ -214,3 +214,7 @@ aside {
     border-left:1rem black;
     padding-left:1rem; 
 }
+
+.imgrow {
+    width:20rem;
+}
