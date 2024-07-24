@@ -206,7 +206,7 @@ nav a:active {
 }
 
 .subsection {
-    display:flex;
+    display:block;
     padding-right:1rem;
 }
 
