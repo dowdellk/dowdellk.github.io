@@ -151,7 +151,7 @@ nav a:active {
 }
 
 .main-section {
-    display:block;
+    display:inline;
     max-width:70%;
 }
 
@@ -181,7 +181,7 @@ figcaption {
 aside {
     max-width:20%;
     float:right;
-    display:block;
+    display:inline;
     border-left:1rem black;
     padding-left:1rem; 
 }
