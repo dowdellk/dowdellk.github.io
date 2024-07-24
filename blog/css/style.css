@@ -214,5 +214,5 @@ aside {
 }
 
 .imgrow {
-    width:20rem;
+    max-width:33.3%;
 }
