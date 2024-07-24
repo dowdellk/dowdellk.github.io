@@ -248,7 +248,8 @@ aside {
 }
 
 .imgrow {
-    max-width:auto;
+    height:fit-content;
+    width:fit-content;
     object-fit:contain;
 }
 
