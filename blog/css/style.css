@@ -178,6 +178,7 @@ nav a:active {
 
 .buttonsub {
     background-color:rgb(115, 230, 191);
+    border:solid black .2rem;
     color:black;
     text-transform:uppercase;
     font-family:Rozha One, Georgia, serif;
