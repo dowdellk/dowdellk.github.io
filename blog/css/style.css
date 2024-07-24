@@ -190,7 +190,6 @@ nav a:active {
 }
 
 .subsection {
-    display:inline-grid;
     padding:0;
     margin:0;
 }
