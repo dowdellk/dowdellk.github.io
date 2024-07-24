@@ -159,6 +159,8 @@ nav a:active {
     text-transform:uppercase;
     font-family:Rozha One, Georgia, serif;
     font-size:2rem;
+    border-top:none;
+    border-bottom:none;
 }
 
 .subscribe a:hover {
