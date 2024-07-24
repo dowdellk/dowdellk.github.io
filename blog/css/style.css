@@ -81,7 +81,13 @@ body {
     gap:.5rem;
 }
 
+.one {
+    grid-column:1;
+}
 
+.two {
+    grid-column:2;
+}
 
 .highlight {
     border-style:dotted;
