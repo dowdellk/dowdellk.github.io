@@ -166,7 +166,7 @@ nav a:active {
 }
 
 .main-section {
-    display:inline;
+    display:block;
 }
 
 .subsection {
