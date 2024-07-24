@@ -183,6 +183,7 @@ nav a:active {
     text-transform:uppercase;
     font-family:Rozha One, Georgia, serif;
     font-size:1.8rem;
+    text-shadow:grey;
 }
 
 .subscribe a:hover {
