@@ -235,6 +235,7 @@ figcaption {
     text-align:start;
     line-height:130%;
     font-size:1rem;
+    background-color:rgb(159, 244, 216);
 }
 
 aside {
