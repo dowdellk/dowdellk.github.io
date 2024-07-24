@@ -151,12 +151,12 @@ nav a:active {
 }
 
 .main-section {
-    display:inline-flex;
+    display:flex;
     max-width:70%;
 }
 
 .subsection {
-    display:inline-flex;
+    display:inline-block;
     padding:0;
     margin:0;
     max-width:70%;
