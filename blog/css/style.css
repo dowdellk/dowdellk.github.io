@@ -147,6 +147,12 @@ nav a:active {
     background-color:blue;
 }
 
+.subscribe {
+    border:.5rem solid black;
+    padding-top:.3rem;
+    padding-bottom:.3rem;
+    letter-spacing:.3rem;
+}
 .subscribe a {
     border-color:black;
     border:1rem;
