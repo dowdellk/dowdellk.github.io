@@ -178,7 +178,7 @@ nav a:active {
 .subsection {
     float:left;
     display:inline-flex;
-    padding:0rem;
+    padding:0;
     margin:0;
     max-width:75%;
 }
@@ -186,10 +186,11 @@ nav a:active {
 .figurerow {
     background-color:rgb(159, 244, 216);
     background-size:contain;
+    padding:0;
 }
 
 .imgrow {
-    width:75%;
+    width:80%;
 }
 
 figcaption {
