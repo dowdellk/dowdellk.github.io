@@ -220,8 +220,8 @@ nav a:active {
 }
 
 .subsection {
-    display:grid;
-    position:fixed;
+    display:inline-grid;
+    position:static;
 }
 
 .figurerow {
