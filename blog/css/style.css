@@ -171,10 +171,6 @@ nav a:active {
     padding:0;
 }
 
-.imgrow {
-    width:fit-content;
-}
-
 figcaption {
     font-family:Roboto, Helvetica, sans-serif;
     text-align:center;
