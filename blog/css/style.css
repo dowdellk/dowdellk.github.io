@@ -184,7 +184,6 @@ figure {
 }
 
 aside {
-    max-width:20%;
     float:right;
     display:inline;
     border-left:1rem black;
