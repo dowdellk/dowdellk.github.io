@@ -100,8 +100,8 @@ body {
 .three {
     grid-column:1;
     grid-row:2;
-    max-width:50%;
-    max-height:50%;
+    width:auto;
+    height:auto;
 }
 
 .four {
