@@ -176,6 +176,7 @@ figcaption {
     caption-side:bottom;
     padding-top:.5rem;
     padding-bottom:.5rem;
+    display:block;
 }
 
 aside {
