@@ -177,7 +177,7 @@ nav a:active {
 
 .subsection {
     float:left;
-    display:inline;
+    display:inline-flex;
     padding:0rem;
     margin:0;
     max-width:75%;
