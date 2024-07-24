@@ -154,12 +154,7 @@ nav a:active {
     background-color:blue;
 }
 
-.subscribe {
-    
-    border:.3rem solid black;
-    letter-spacing:.2rem;
-}
-.subscribe a {
+.buttonsub {
     background-color: rgb(12, 74, 53);
     color:white;
     text-transform:uppercase;
