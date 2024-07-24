@@ -232,7 +232,7 @@ aside {
 }
 
 .imgrow {
-    max-width:fit-content;
+    max-width:grid;
 }
 
 .imgaside {
