@@ -187,6 +187,10 @@ nav a:active {
     background-color:rgb(159, 244, 216);
 }
 
+.imgrow {
+    width:75%;
+}
+
 figcaption {
     font-family:Roboto, Helvetica, sans-serif;
     text-align:center;
