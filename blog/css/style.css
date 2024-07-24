@@ -211,7 +211,7 @@ figcaption {
 
 aside {
     float:right;
-    border-left:1rem black;
+    border-left:1rem solid black;
     padding-left:1rem; 
 }
 
