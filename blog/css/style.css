@@ -183,7 +183,7 @@ aside {
     float:right;
     width:30%;
     display:block;
-    border-left:black;
+    border-left:1rem black;
     padding-left:1rem; 
 }
 
