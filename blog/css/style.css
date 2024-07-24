@@ -148,7 +148,8 @@ nav a:active {
 }
 
 .subscribe a {
-    border:2rem;
+    border-color:black;
+    border:1rem;
     background-color: rgb(12, 74, 53);
     color:white;
     text-transform:uppercase;
@@ -157,7 +158,7 @@ nav a:active {
 }
 
 .subscribe a:hover {
-    color:rgb(125, 123, 123);
+    color:rgb(161, 158, 158);
     text-decoration-line:underline;
 }
 
