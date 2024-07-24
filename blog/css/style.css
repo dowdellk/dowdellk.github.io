@@ -236,5 +236,5 @@ aside {
 }
 
 .imgaside {
-    max-width:75%;
+    max-width:fit-content;
 }
