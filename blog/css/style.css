@@ -151,7 +151,7 @@ nav a:active {
 }
 
 .main-section {
-    display:inline;
+    display:block;
     max-width:70%;
 }
 
@@ -162,7 +162,7 @@ nav a:active {
 }
 
 .figurerow {
-    display:inline-block;
+    display:block;
     background-color:rgb(159, 244, 216);
     padding:0;
 }
