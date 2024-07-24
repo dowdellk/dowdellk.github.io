@@ -209,8 +209,7 @@ nav a:active {
 }
 
 .article-image {
-    float:left;
-    display:block;
+    display:grid;
     margin-left:0;
     margin-top:0;
     margin-bottom:.5rem;
@@ -223,7 +222,6 @@ nav a:active {
 }
 
 .subsection {
-    float:left;
     display:grid;
 }
 
@@ -243,7 +241,7 @@ figcaption {
 }
 
 aside {
-    float:flex;
+    display:grid;
     border-left:.1rem solid black;
     padding-left:1rem; 
 }
