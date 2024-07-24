@@ -100,19 +100,22 @@ body {
 .three {
     grid-column:1;
     grid-row:2;
-    width:25rem;
+    max-width:50%;
+    max-height:50%;
 }
 
 .four {
     grid-column:2;
     grid-row:2;
-    width:25rem;
+    max-width:50%;
+    max-height:50%;
 }
 
 .five {
     grid-column:3;
     grid-row:2;
-    width:25rem;
+    max-width:50%;
+    max-height:50%;
 }
 
 .six {
