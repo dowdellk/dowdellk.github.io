@@ -107,6 +107,11 @@ body {
     grid-row:2;
 }
 
+.six {
+    grid-column:1;
+    grid-row:auto;
+}
+
 .highlight {
     border-style:dotted;
     border-width:.3rem;
