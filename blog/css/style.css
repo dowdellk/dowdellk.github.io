@@ -144,6 +144,7 @@ nav a:active {
 
 .article-image {
     float:left;
+    display:inline;
     margin-left:0;
     margin-top:0;
     margin-bottom:.5rem;
@@ -151,7 +152,7 @@ nav a:active {
 }
 
 .main-section {
-    display:block;
+    display:inline;
     max-width:70%;
 }
 
