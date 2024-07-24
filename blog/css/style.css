@@ -158,7 +158,7 @@ nav a:active {
     color:white;
     text-transform:uppercase;
     font-family:Rozha One, Georgia, serif;
-    font-size:2rem;
+    font-size:1.5rem;
     border-top:none;
     border-bottom:none;
 }
@@ -196,7 +196,6 @@ nav a:active {
 .figurerow {
     background-color:rgb(159, 244, 216);
     padding:0;
-    display:inline;
 }
 
 figcaption {
