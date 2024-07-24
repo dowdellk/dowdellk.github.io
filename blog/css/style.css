@@ -147,6 +147,15 @@ nav a:active {
     background-color:blue;
 }
 
+.subscribe {
+    border:2rem;
+    background-color: rgb(12, 74, 53);
+    color:white;
+    text-transform:uppercase;
+    font-family:Rozha One, Georgia, serif;
+    font-size:1rem;
+}
+
 .article-image {
     float:left;
     display:block;
