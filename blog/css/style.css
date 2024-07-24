@@ -216,8 +216,6 @@ nav a:active {
 }
 
 .figurerow {
-    background-color:rgb(159, 244, 216);
-    padding:0;
     display:inline;
 }
 
@@ -228,6 +226,7 @@ figcaption {
     padding-top:.5rem;
     padding-bottom:.5rem;
     display:block;
+    background-color:rgb(159, 244, 216);
 }
 
 aside {
