@@ -213,14 +213,13 @@ nav a:active {
 
 .subsection {
     display:grid;
-    padding-right:1rem;
 }
 
 .figurerow {
     display:grid;
     background-color:rgb(159, 244, 216);
     padding-top:0;
-    padding-bottom:1rem;
+    padding-bottom:1.5rem;
     max-height:90%;
     caption-side:bottom;
 }
@@ -228,6 +227,7 @@ nav a:active {
 figcaption {
     font-family:Roboto, Helvetica, sans-serif;
     text-align:start;
+    line-height:130%;
     font-size:1rem;
 }
 
