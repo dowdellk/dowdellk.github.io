@@ -94,7 +94,7 @@ body {
 
 .two {
     grid-column:4;
-    grid-row:1 / span 4
+    grid-row:1 / span end;
 }
 
 .three {
@@ -107,15 +107,15 @@ body {
 .four {
     grid-column:2;
     grid-row:2;
-    max-width:50%;
-    max-height:50%;
+    width:auto;
+    height:auto;
 }
 
 .five {
     grid-column:3;
     grid-row:2;
-    max-width:50%;
-    max-height:50%;
+    width:auto;
+    height:auto;
 }
 
 .six {
