@@ -153,14 +153,14 @@ nav a:active {
 
 .main-section {
     display:inline-block;
-    max-width:75%;
+    max-width:70%;
 }
 
 .subsection {
     display:inline-block;
     padding:0;
     margin:0;
-    max-width:75%;
+    max-width:70%;
 }
 
 .figurerow {
@@ -181,7 +181,7 @@ figcaption {
 
 aside {
     float:right;
-    width:25%;
+    width:30%;
     display:flex;
 }
 
