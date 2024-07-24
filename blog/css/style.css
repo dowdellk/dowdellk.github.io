@@ -101,7 +101,6 @@ h2 {
     text-align:left;
     padding-top:1.3rem;
     padding-bottom:0;
-    float:left;
 }
 
 h3 {
@@ -184,6 +183,8 @@ aside {
     float:right;
     width:30%;
     display:block;
+    border-left:black;
+    padding-left:1rem; 
 }
 
 
