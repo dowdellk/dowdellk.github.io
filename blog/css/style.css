@@ -89,7 +89,7 @@ body {
 
 .two {
     grid-column:4;
-    grid-row:all;
+    grid-row:1 / span all;
 }
 
 .three {
