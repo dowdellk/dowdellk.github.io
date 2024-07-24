@@ -154,16 +154,15 @@ nav a:active {
 }
 
 .subscribe {
-    border:.8rem solid black;
+    border:.3rem solid black;
     letter-spacing:.2rem;
-    margin:.8rem;
 }
 .subscribe a {
     background-color: rgb(12, 74, 53);
     color:white;
     text-transform:uppercase;
     font-family:Rozha One, Georgia, serif;
-    font-size:3rem;
+    font-size:2rem;
 }
 
 .subscribe a:hover {
