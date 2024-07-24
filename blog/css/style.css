@@ -75,6 +75,13 @@ body {
     margin-right:1rem;
 }
 
+.wrapper {
+    display:grid;
+    grid-template-columns: 1fr 3rem;
+    gap:.5rem;
+}
+
+
 
 .highlight {
     border-style:dotted;
