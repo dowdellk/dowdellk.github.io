@@ -218,7 +218,6 @@ nav a:active {
 
 .subsection {
     display:grid;
-    grid-column-start:left;
     position:absolute;
 }
 
