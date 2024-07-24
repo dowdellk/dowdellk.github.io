@@ -185,6 +185,7 @@ nav a:active {
 
 .figurerow {
     background-color:rgb(159, 244, 216);
+    background-size:contain;
 }
 
 .imgrow {
