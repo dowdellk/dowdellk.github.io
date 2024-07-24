@@ -77,17 +77,16 @@ body {
 
 .wrapper {
     display:grid;
-    grid-template-columns: 60rem auto;
+    grid-template-columns: 75fr 25fr;
     gap:1rem;
 }
 
 .one {
-    grid-column:1;
-    grid-row:1;
+    grid-column:75fr;
 }
 
 .two {
-    grid-column:2;
+    grid-column:25fr;
 }
 
 .highlight {
