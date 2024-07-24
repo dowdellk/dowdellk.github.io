@@ -179,6 +179,11 @@ figcaption {
     display:block;
 }
 
+img {
+    max-width:50%;
+    max-height:50%;
+}
+
 aside {
     max-width:20%;
     float:right;
