@@ -191,6 +191,8 @@ nav a:active {
 }
 
 .subsection {
+    display:inline-flex;
+    max-width:65rem;
     padding:0;
     margin:0;
 }
