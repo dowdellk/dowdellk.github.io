@@ -223,7 +223,7 @@ nav a:active {
 }
 
 .subsection {
-    display:inline-grid;
+    display:inline-flex;
 }
 
 .figurerow {
