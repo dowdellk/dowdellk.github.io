@@ -211,7 +211,7 @@ nav a:active {
 }
 
 .main-section {
-    float:left;
+    display:grid;
     padding-right:1rem;
 }
 
