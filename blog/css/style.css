@@ -236,7 +236,7 @@ figcaption {
 }
 
 aside {
-    display:grid;
+    float:right;
     border-left:.1rem solid black;
     padding-left:1rem; 
     padding-top:0;
