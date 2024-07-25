@@ -247,9 +247,10 @@ aside {
 }
 
 .box {
-    width:10rem;
+    width:12rem;
     height:3rem;
     background-color:rgb(115, 230, 191);
     border:solid black .2rem;
-    box-shadow:.5rem #2f3131;
+    box-shadow:.5rem .5rem solid #545656;
+    margin:.5 rem;
 }
