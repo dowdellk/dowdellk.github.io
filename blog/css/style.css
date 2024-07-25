@@ -209,11 +209,13 @@ nav a:active {
 
 .main-section {
     padding-right:1rem;
+    display:flex;
 }
 
 .subsection {
     justify-content:center;
     align-content:normal;
+    display:flex;
 }
 
 .figurerow {
