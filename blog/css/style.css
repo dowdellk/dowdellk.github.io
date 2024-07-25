@@ -173,7 +173,7 @@ nav a:active {
 }
 
 .subscribe {
-    
+    display:block;
     color:black;
     text-transform:uppercase;
     font-family:Rozha One, Georgia, serif;
