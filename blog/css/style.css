@@ -212,12 +212,10 @@ nav a:active {
 }
 
 .main-section {
-    display:grid;
     padding-right:1rem;
 }
 
 .subsection {
-    display:grid;
     justify-content:center;
     align-content:normal;
 }
@@ -238,7 +236,6 @@ figcaption {
 }
 
 aside {
-    display:grid;
     border-left:.1rem solid black;
     padding-left:1rem; 
     padding-top:0;
