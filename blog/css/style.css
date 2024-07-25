@@ -218,6 +218,8 @@ nav a:active {
 
 .subsection {
     display:grid;
+    justify-content:center;
+    align-content:normal;
 }
 
 .figurerow {
@@ -236,7 +238,7 @@ figcaption {
 }
 
 aside {
-    float:right;
+    display:grid;
     border-left:.1rem solid black;
     padding-left:1rem; 
     padding-top:0;
