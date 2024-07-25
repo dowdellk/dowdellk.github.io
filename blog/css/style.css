@@ -82,7 +82,7 @@ body {
 
 .wrapper {
     display:grid;
-    grid-template-columns: auto auto auto auto;
+    grid-template-columns: 25% 25% 25% 25%;
     gap:1rem;
     grid-auto-rows: auto;
 }
@@ -94,7 +94,7 @@ body {
 
 .two {
     grid-column:4;
-    grid-row:1 / span end;
+    grid-row:1 / span auto;
 }
 
 .three {
