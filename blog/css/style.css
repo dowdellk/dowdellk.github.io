@@ -199,13 +199,13 @@ nav a:active {
 
 .main-section {
     padding-right:1rem;
-    display:flex;
+    display:inline-grid;
 }
 
 .subsection {
     justify-content:center;
     align-content:normal;
-    display:flex;
+    display:inline-grid;
 }
 
 .figurerow {
