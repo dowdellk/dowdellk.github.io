@@ -216,6 +216,7 @@ nav a:active {
     padding-top:0;
     padding-bottom:0;
     caption-side:bottom;
+    width:150%;
 }
 
 figcaption {
@@ -242,7 +243,7 @@ aside {
 
 .imgaside {
     box-sizing:border-box;
-    width:100%;
+    width:90%;
     margin-left:0;
     
 }
