@@ -92,7 +92,7 @@ body {
 
 .two {
     grid-column:4;
-    grid-row-start:span all;
+    grid-row-start:1 / span all;
 }
 
 .three {
