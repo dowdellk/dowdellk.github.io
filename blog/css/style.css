@@ -180,6 +180,9 @@ nav a:active {
     font-size:1.8rem;
     text-shadow:grey;
     text-align:center;
+    background-color:rgb(115, 230, 191);
+    border:solid black .2rem;
+    margin:.5 rem;
 }
 
 .subscribe a:hover {
@@ -249,11 +252,7 @@ aside {
 }
 
 .box {
-    width:12rem;
-    height:3rem;
-    background-color:rgb(115, 230, 191);
-    border:solid black .2rem;
-    box-shadow:.5rem .5rem solid #545656;
-    margin:.5 rem;
+
+    
     
 }
