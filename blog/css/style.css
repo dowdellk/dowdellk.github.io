@@ -207,7 +207,8 @@ nav a:active {
 }
 
 .subsection {
-    display:grid;
+    float:left;
+    display:inline-flex;
 }
 
 .figurerow {
@@ -253,4 +254,5 @@ aside {
     border:solid black .2rem;
     box-shadow:.5rem .5rem solid #545656;
     margin:.5 rem;
+    text-align:center;
 }
