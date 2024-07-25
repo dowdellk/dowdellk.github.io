@@ -216,6 +216,7 @@ nav a:active {
     padding-top:0;
     padding-bottom:1.5rem;
     caption-side:bottom;
+    size:fit-content;
 }
 
 figcaption {
