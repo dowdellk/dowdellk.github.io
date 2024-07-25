@@ -207,9 +207,7 @@ nav a:active {
 }
 
 .subsection {
-    justify-content:center;
-    align-content:normal;
-    display:inline;
+    display:inline-grid;
 }
 
 .figurerow {
