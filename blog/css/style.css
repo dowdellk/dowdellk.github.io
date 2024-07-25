@@ -182,15 +182,13 @@ nav a:active {
 }
 
 .subscribe {
-    background-color:rgb(115, 230, 191);
-    border:solid black .2rem;
+    
     color:black;
     text-transform:uppercase;
     font-family:Rozha One, Georgia, serif;
     font-size:1.8rem;
     text-shadow:grey;
-    box-shadow:.5rem #2f3131;
-    box-sizing:border-box;
+
 }
 
 .subscribe a:hover {
@@ -252,4 +250,12 @@ aside {
     height:auto;
     width:auto;
     margin-left:0;
+}
+
+.box {
+    width:10rem;
+    height:10rem;
+    background-color:rgb(115, 230, 191);
+    border:solid black .2rem;
+    box-shadow:.5rem #2f3131;
 }
