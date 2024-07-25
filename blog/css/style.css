@@ -214,9 +214,8 @@ nav a:active {
 .figurerow {
     background-color:rgb(159, 244, 216);
     padding-top:0;
-    padding-bottom:1.5rem;
+    padding-bottom:0;
     caption-side:bottom;
-    size:fit-content;
 }
 
 figcaption {
