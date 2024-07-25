@@ -78,6 +78,7 @@ body {
     margin-left:1rem;
     margin-right:1rem;
     max-width:90%;
+    display:grid;
 }
 
 .wrapper {
