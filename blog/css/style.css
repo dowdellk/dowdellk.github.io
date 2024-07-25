@@ -213,12 +213,12 @@ nav a:active {
 }
 
 .main-section {
-    display:inline-grid;
+    display:inline-block;
     padding-right:1rem;
 }
 
 .subsection {
-    display:grid;
+    display:inline-block;
 }
 
 .figurerow {
