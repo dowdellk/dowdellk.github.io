@@ -237,13 +237,14 @@ aside {
 .imgrow {
     height:50%;
     width:50%;
-    object-fit:contain;
+    padding-bottom:.5rem;
 }
 
 .imgaside {
     height:80%;
     width:80%;
     margin-left:0;
+    
 }
 
 .box {
