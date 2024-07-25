@@ -82,7 +82,7 @@ body {
     display:grid;
     grid-template-columns: 25% 25% 25% 25%;
     gap:1rem;
-    grid-auto-rows: auto;
+    grid-auto-rows: 3;
 }
 
 .one {
@@ -112,7 +112,7 @@ body {
 
 .six {
     grid-column:1;
-    grid-row:auto;
+    grid-row:3;
 }
 
 .highlight {
