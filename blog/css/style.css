@@ -179,7 +179,7 @@ nav a:active {
     font-family:Rozha One, Georgia, serif;
     font-size:1.8rem;
     text-shadow:grey;
-
+    text-align:center;
 }
 
 .subscribe a:hover {
@@ -254,5 +254,5 @@ aside {
     border:solid black .2rem;
     box-shadow:.5rem .5rem solid #545656;
     margin:.5 rem;
-    text-align:center;
+    
 }
