@@ -100,19 +100,16 @@ body {
 .three {
     grid-column:1;
     grid-row:2;
-    grid-area:normal;
 }
 
 .four {
     grid-column:2;
     grid-row:2;
-    grid-area:normal;
 }
 
 .five {
     grid-column:3;
     grid-row:2;
-    grid-area:normal;
 }
 
 .six {
