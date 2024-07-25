@@ -80,23 +80,23 @@ body {
 
 .wrapper {
     display:grid;
-    grid-template-columns: 20rem 20rem 20rem 20rem;
+    grid-template-columns: 25% 25% 25% 25%;
     gap:1rem;
     grid-auto-rows: 3;
 }
 
 .one {
-    grid-column-start:1 / span 3;
+    grid-column:span 3;
     grid-row:1;
 }
 
 .two {
     grid-column:4;
-    grid-row-start:1 / span all;
+    grid-row:span all;
 }
 
 .three {
-    grid-column-start:1 / span 3;
+    grid-column: span 3;
     grid-row:2;
 }
 
