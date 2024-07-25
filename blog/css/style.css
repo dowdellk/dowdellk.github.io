@@ -203,6 +203,7 @@ nav a:active {
 }
 
 .article-image {
+    float:left;
     margin-left:0;
     margin-top:0;
     margin-bottom:.5rem;
@@ -210,12 +211,12 @@ nav a:active {
 }
 
 .main-section {
-    display:inline-block;
+    float:left;
     padding-right:1rem;
 }
 
 .subsection {
-    display:inline-block;
+    float:left;
 }
 
 .figurerow {
