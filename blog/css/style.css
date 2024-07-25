@@ -86,15 +86,13 @@ body {
 }
 
 .one {
-    grid-column-start:1;
-    grid-column-end:3;
+    grid-column-start:span 3;
     grid-row:1;
 }
 
 .two {
     grid-column:4;
-    grid-row-start:1;
-    grid-row-end:end;
+    grid-row-start:span all;
 }
 
 .three {
