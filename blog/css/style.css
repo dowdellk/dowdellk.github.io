@@ -203,13 +203,13 @@ nav a:active {
 
 .main-section {
     padding-right:1rem;
-    display:inline-grid;
+    display:inline-block;
 }
 
 .subsection {
     justify-content:center;
     align-content:normal;
-    display:inline-grid;
+    display:inline;
 }
 
 .figurerow {
