@@ -235,8 +235,8 @@ aside {
 }
 
 .imgrow {
-    height:fit-content;
-    width:fit-content;
+    height:50%;
+    width:50%;
     object-fit:contain;
 }
 
