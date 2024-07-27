@@ -246,8 +246,7 @@ aside {
 }
 
 .imgaside {
-    box-sizing:border-box;
-    width:flex;
+    width:fit-content;
     margin-left:0;
     
 }
