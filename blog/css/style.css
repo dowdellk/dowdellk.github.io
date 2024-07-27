@@ -209,12 +209,12 @@ nav a:active {
 
 .main-section {
     padding-right:1rem;
-    display:inline-grid;
+    display:inline-flex;
 }
 
 .subsection {
     float:center;
-    display:inline-grid;
+    display:inline-flex;
     padding:0;
 }
 
@@ -237,7 +237,7 @@ aside {
     padding-top:0;
     margin-top:0;
     margin-left:1rem;
-    display:inline-grid;
+    display:inline-flex;
 }
 
 .imgrow {
