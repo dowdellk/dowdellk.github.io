@@ -86,7 +86,6 @@ body {
     display:grid;
     column-count:4;
     grid-template-columns: 1fr 1fr 1fr 1fr;
-    grid-template-rows:auto;
     grid-column-gap:.5rem;
     grid-auto-rows:100%;
     column-rule-width:.5rem;
@@ -210,12 +209,12 @@ nav a:active {
 
 .main-section {
     padding-right:1rem;
-    display:flex;
+    display:grid;
 }
 
 .subsection {
     float:center;
-    display:flex;
+    display:grid;
     padding:0;
 }
 
