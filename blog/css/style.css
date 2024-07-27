@@ -54,7 +54,7 @@
 
 html {
     font-size:16px;
-    max-width:100%;
+    width:100%;
 }
 
 p {
@@ -78,7 +78,7 @@ p {
 body {
     margin-left:1rem;
     margin-right:1rem;
-    width:90%;
+    width:100%;
     min-width:56.5rem;
 }
 
