@@ -240,14 +240,14 @@ aside {
 }
 
 .imgrow {
-    height:140%;
-    width:140%;
+    height:100%;
+    width:100%;
     padding-bottom:.5rem;
 }
 
 .imgaside {
     box-sizing:border-box;
-    width:90%;
+    width:flex;
     margin-left:0;
     
 }
