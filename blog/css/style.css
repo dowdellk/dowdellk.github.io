@@ -245,11 +245,11 @@ aside {
     flex-direction:column;
 }
 
-/* .imgrow {
+.imgrow {
     height:auto;
-    width:auto;
+    width:33.3%;
     padding-bottom:.5rem;
-} */
+} 
 
 .imgaside {
     max-inline-size:100%;
