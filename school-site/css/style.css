@@ -141,6 +141,7 @@ li {
     font-size:.75rem;
     letter-spacing:.03125rem;
     word-spacing:.125rem;
+    line-height:140%;
 }
 
 figcaption {
