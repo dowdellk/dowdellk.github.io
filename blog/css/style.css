@@ -225,7 +225,6 @@ nav a:active {
 .subsection {
     float:center;
     padding:0;
-    flex-direction:row;
 }
 
 .figurerow {
@@ -233,8 +232,6 @@ nav a:active {
     padding-top:0;
     padding-bottom:0;
     caption-side:bottom;
-    height:auto;
-    width:33.3%;
 }
 
 figcaption {
