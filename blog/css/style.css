@@ -84,7 +84,7 @@ body {
 .wrapper {
     display:grid;
     column-count:4;
-    grid-template-columns: 25% 25% 25% 25%;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-column-gap:.5rem;
     grid-auto-rows:auto;
     column-rule-width:.5rem;
