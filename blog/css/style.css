@@ -216,6 +216,7 @@ nav a:active {
     float:center;
     display:inline-grid;
     padding:0;
+    flex-direction:row;
 }
 
 .figurerow {
@@ -238,6 +239,7 @@ aside {
     margin-top:0;
     margin-left:1rem;
     display:grid;
+    flex-direction:column;
 }
 
 .imgrow {
