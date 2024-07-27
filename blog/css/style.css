@@ -225,13 +225,14 @@ nav a:active {
     padding-bottom:0;
     caption-side:bottom;
     height:auto;
-    width:auto;
+    width:33.3%;
 }
 
 figcaption {
     font-family:Roboto, Helvetica, sans-serif;
     text-align:start;
     font-size:1rem;
+    margin-top:1rem;
 }
 
 aside {
