@@ -215,6 +215,7 @@ nav a:active {
 .subsection {
     float:center;
     display:inline-grid;
+    padding:0;
 }
 
 .figurerow {
@@ -236,6 +237,7 @@ aside {
     padding-top:0;
     margin-top:0;
     margin-left:1rem;
+    display:inline-grid;
 }
 
 .imgrow {
