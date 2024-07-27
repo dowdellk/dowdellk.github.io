@@ -209,14 +209,12 @@ nav a:active {
 
 .main-section {
     padding-right:1rem;
-    display:grid;
 }
 
 .subsection {
     float:center;
     padding:0;
     flex-direction:row;
-    display:grid;
 }
 
 .figurerow {
