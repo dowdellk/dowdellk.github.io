@@ -126,7 +126,7 @@ p {
     letter-spacing:.03125rem;
     word-spacing:.125rem;
     text-indent:1.5rem;
-    line-height:140%;
+    line-height:150%;
 }
 
 /* .pstandalone {
@@ -175,6 +175,7 @@ ul, ol {
     margin-bottom:1rem;
     margin-left:0;
     margin-right:0;
+    line-height: 150%;
 }
 
 /* List Styling */
