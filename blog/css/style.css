@@ -221,8 +221,6 @@ nav a:active {
     padding-top:0;
     padding-bottom:0;
     caption-side:bottom;
-    width:fit-content;
-    height:fit-content;
 }
 
 figcaption {
@@ -246,7 +244,8 @@ aside {
 }
 
 .imgaside {
-    width:fit-content;
+    max-inline-size:100%;
+    max-width:90%;
     margin-left:0;
     
 }
