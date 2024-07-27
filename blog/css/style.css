@@ -241,8 +241,8 @@ aside {
 }
 
 .imgrow {
-    height:100%;
-    width:110%;
+    height:auto;
+    width:33.3%;
     padding-bottom:.5rem;
 }
 
