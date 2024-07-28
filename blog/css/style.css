@@ -222,6 +222,7 @@ nav a:active {
     
     grid-column:1;
     grid-row:2;
+    display:inline-block;
 }
 
 /* .figurerow {
@@ -241,7 +242,7 @@ figcaption {
     background-color:rgb(159, 244, 216);
     caption-side:bottom;
     line-height:150%;
-    display:inline;
+    display:inline-block;
 }
 
 aside {
