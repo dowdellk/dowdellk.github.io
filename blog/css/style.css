@@ -262,6 +262,7 @@ aside {
     height:auto;
     width:75%;
     padding-bottom:.5rem;
+    display:inline;
 } 
 
 .imgaside {
