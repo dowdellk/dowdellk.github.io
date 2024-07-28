@@ -240,6 +240,7 @@ figcaption {
 .figurerow {
     background-color:rgb(159, 244, 216);
     caption-side:bottom;
+    line-height:150%;
 }
 
 aside {
