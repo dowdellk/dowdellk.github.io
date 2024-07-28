@@ -236,6 +236,11 @@ figcaption {
     margin-top:1rem;
 }
 
+figure {
+    background-color:rgb(159, 244, 216);
+    caption-side:bottom;
+}
+
 aside {
     border-left:.1rem solid black;
     padding-left:1rem; 
@@ -248,10 +253,8 @@ aside {
 
 .imgrow {
     height:auto;
-    width:33.3%;
+    width:50%;
     padding-bottom:.5rem;
-    background-color:rgb(159, 244, 216);
-    caption-side:bottom;
 } 
 
 .imgaside {
