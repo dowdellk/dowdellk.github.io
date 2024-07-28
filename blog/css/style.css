@@ -218,7 +218,6 @@ nav a:active {
 
 .subsection {
     
-    padding:.5rem;
     grid-column:1;
     grid-row:2;
 }
@@ -234,7 +233,6 @@ figcaption {
     font-family:Roboto, Helvetica, sans-serif;
     text-align:start;
     font-size:1rem;
-    margin-top:1rem;
 }
 
 .figurerow {
