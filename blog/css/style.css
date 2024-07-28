@@ -117,7 +117,7 @@ body {
 .highlight {
     border-style:dotted;
     border-width:.3rem;
-    background-color:rgb(115, 230, 191);
+    background-color:rgb(159, 244, 216);
     text-transform:uppercase;
     text-decoration:none;
     letter-spacing:.3rem;
@@ -127,7 +127,7 @@ h1 {
     font-family:Rozha One, Georgia, serif;
     font-size:3rem;
     text-align:center;
-    text-shadow:.2rem .2rem rgb(115, 230, 191);
+    text-shadow:.2rem .2rem rgb(159, 244, 216);
     padding-bottom:1rem;
     padding-top:1rem;
     transform:rotate(-6deg);
@@ -187,7 +187,7 @@ nav a:active {
     font-size:1.8rem;
     text-shadow:grey;
     text-align:center;
-    background-color:rgb(115, 230, 191);
+    background-color:rgb(159, 244, 216);
     border:solid black .2rem;
     margin:.5 rem;
 }
@@ -198,7 +198,7 @@ nav a:active {
 }
 
 .subscribe a:active {
-    color:rgb(115, 230, 191);
+    color:rgb(159, 244, 216);
     background-color:#2f3131;
 }
 
