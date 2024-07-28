@@ -217,8 +217,8 @@ nav a:active {
 }
 
 .subsection {
-    float:left;
-    display:inline;
+    align-items:center;
+    justify-items:center;
     padding:.5rem;
     grid-column:1;
     grid-row:2;
