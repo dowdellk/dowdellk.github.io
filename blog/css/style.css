@@ -241,7 +241,7 @@ figcaption {
     margin-top:1rem;
 }
 
-figure {
+.figurerow {
     background-color:rgb(159, 244, 216);
     background-size:contain;
     caption-side:bottom;
