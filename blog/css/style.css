@@ -258,7 +258,7 @@ aside {
 }
 
 .imgrow {
-    display:inline-block;
+    display:flex;
     object-fit:contain;
     max-width:fit-content;
     
