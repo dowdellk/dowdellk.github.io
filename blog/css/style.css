@@ -223,8 +223,9 @@ nav a:active {
 }
 
 .subsection {
-    float:center;
+    float:left;
     padding:0;
+    display:inline;
 }
 
 .figurerow {
