@@ -54,7 +54,7 @@
 
 html {
     font-size:16px;
-    width:95%;
+    width:100%;
 }
 
 p {
@@ -249,7 +249,7 @@ aside {
     padding-top:0;
     margin-top:0;
     margin-left:1.5rem;
-    margin-right:1rem;
+    margin-right:.5rem;
     grid-column:2;
     grid-row:1 / all;
 }
