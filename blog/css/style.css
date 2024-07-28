@@ -236,12 +236,12 @@ figcaption {
     font-family:Roboto, Helvetica, sans-serif;
     text-align:start;
     font-size:1rem;
+    line-height:150%;
 }
 
 .figurerow {
     background-color:rgb(159, 244, 216);
     caption-side:bottom;
-    line-height:150%;
     display:inline-block;
 }
 
