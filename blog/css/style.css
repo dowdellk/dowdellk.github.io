@@ -222,12 +222,12 @@ nav a:active {
     grid-row:2;
 }
 
-.figurerow {
+/* .figurerow {
     background-color:rgb(159, 244, 216);
     padding-top:0;
     padding-bottom:0;
     caption-side:bottom;
-}
+} */
 
 figcaption {
     font-family:Roboto, Helvetica, sans-serif;
