@@ -260,9 +260,9 @@ aside {
 
 .imgrow {
     height:auto;
-    width:75%;
+    width:auto;
     padding-bottom:.5rem;
-    display:inline;
+    display:inline-block;
 } 
 
 .imgaside {
