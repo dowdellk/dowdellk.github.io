@@ -242,7 +242,7 @@ figcaption {
 .figurerow {
     background-color:rgb(159, 244, 216);
     caption-side:bottom;
-    display:inline-block;
+    display:flex;
 }
 
 aside {
