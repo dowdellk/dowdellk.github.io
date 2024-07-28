@@ -212,14 +212,14 @@ nav a:active {
 }
 
 .main-section {
-    display:grid;
+  
     padding-right:1rem;
     grid-column:1;
     grid-row:1;
 }
 
 .subsection {
-    display:grid;
+    
     grid-column:1;
     grid-row:2;
 }
@@ -258,7 +258,7 @@ aside {
     box-sizing:border-box;
     height:auto;
     width:auto;
-    display:block;
+    display:inline-block;
     object-fit:contain;
 } 
 
