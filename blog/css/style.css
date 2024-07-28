@@ -243,7 +243,6 @@ figcaption {
     background-color:rgb(159, 244, 216);
     caption-side:bottom;
     display:inline-block;
-    position:fixed;
 }
 
 aside {
