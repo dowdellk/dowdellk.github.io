@@ -262,7 +262,7 @@ aside {
     display:inline-block;
     object-fit:contain;
     max-width:fit-content;
-    position:fixed;
+    
 } 
 
 .imgaside {
