@@ -260,6 +260,7 @@ aside {
 .imgrow {
     display:inline-block;
     object-fit:contain;
+    max-width:fit-content;
 } 
 
 .imgaside {
