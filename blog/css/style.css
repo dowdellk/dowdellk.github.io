@@ -59,6 +59,7 @@ html {
 
 p {
     font-family:Roboto, Helvetica, sans-serif;
+    line-height:150%;
 }
 
 @font-face {
@@ -80,10 +81,6 @@ body {
     margin-right:2rem;
     width:100%;
     min-width:56rem;
-}
-
-p {
-    line-height:140%;
 }
 
 .container {
