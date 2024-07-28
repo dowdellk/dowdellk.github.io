@@ -220,7 +220,7 @@ nav a:active {
 
 .subsection {
     
-    grid-column:1 / 2;
+    grid-column:1;
     grid-row:2;
 }
 
@@ -241,6 +241,7 @@ figcaption {
     background-color:rgb(159, 244, 216);
     caption-side:bottom;
     line-height:150%;
+    display:inline;
 }
 
 aside {
