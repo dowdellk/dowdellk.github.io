@@ -84,21 +84,20 @@ body {
 
 .container {
     display:grid;
-    column-count:4;
-    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-count:2;
+    grid-template-columns: 3fr 1fr;
     grid-column-gap:.5rem;
     grid-auto-rows:100%;
-    column-rule-width:.5rem;
 }
 
 .one {
-    grid-column:1 / span 3;
+    grid-column:1;
     grid-row:1;
 }
 
 .two {
-    grid-column:4;
-    grid-row:1 / span 3;
+    grid-column:2;
+    grid-row:1 / span all;
 }
 
 .three {
@@ -107,16 +106,6 @@ body {
 }
 
 .four {
-    grid-column:2;
-    grid-row:2;
-}
-
-.five {
-    grid-column:3;
-    grid-row:2;
-}
-
-.six {
     grid-column:1;
     grid-row:3;
 }
