@@ -217,8 +217,7 @@ nav a:active {
 }
 
 .subsection {
-    align-items:center;
-    justify-items:center;
+    
     padding:.5rem;
     grid-column:1;
     grid-row:2;
@@ -259,7 +258,9 @@ aside {
 .imgrow {
     height:auto;
     width:auto;
-    display:inline-block;
+    display:grid;
+    align-items:center;
+    justify-items:center;
 } 
 
 .imgaside {
