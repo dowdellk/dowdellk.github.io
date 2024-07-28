@@ -260,8 +260,7 @@ aside {
     height:auto;
     width:auto;
     display:grid;
-    align-items:center;
-    justify-items:center;
+    object-fit:cover
 } 
 
 .imgaside {
