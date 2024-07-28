@@ -255,11 +255,9 @@ aside {
 }
 
 .imgrow {
-    box-sizing:border-box;
     height:auto;
     width:auto;
     display:inline-block;
-    object-fit:contain;
 } 
 
 .imgaside {
