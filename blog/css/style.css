@@ -82,6 +82,10 @@ body {
     min-width:56rem;
 }
 
+p {
+    line-height:140%;
+}
+
 .container {
     display:grid;
     column-count:2;
