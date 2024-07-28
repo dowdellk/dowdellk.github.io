@@ -257,9 +257,11 @@ aside {
 }
 
 .imgrow {
+    box-sizing:border-box;
     height:auto;
     width:auto;
-    display:grid;
+    display:block;
+    object-fit:contain;
 } 
 
 .imgaside {
