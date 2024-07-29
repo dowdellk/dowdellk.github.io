@@ -199,6 +199,7 @@ nav a:active {
     grid-column:1;
     grid-row:3;
     text-transform:uppercase;
+    text-decoration:none;
     text-align:center;
     background-color:rgb(159, 244, 216);
     border:solid black .5rem;
