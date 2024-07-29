@@ -196,6 +196,8 @@ nav a:active {
 }
 
 .subscribe {
+    font-family:Ultra, Georgia, serif;
+    font-weight:400;
     grid-column:1;
     grid-row:3;
     text-transform:uppercase;
