@@ -64,16 +64,23 @@ p {
 
 @font-face {
     font-family:Rozha One;
-    src: url(../fonts/rozhaone-regular.ttf) format('opentype');
+    src: url(../fonts/serif/rozhaone-regular.ttf) format('opentype');
     font-style:normal;
     font-weight:normal;
 }
 
 @font-face {
     font-family:Roboto;
-    src: url(../fonts/roboto-regular.ttf) format('opentype');
+    src: url(../fonts/sans-serif/roboto-regular.ttf) format('opentype');
     font-style:normal;
     font-weight:normal;
+}
+
+@font-face {
+    font-family:Ultra;
+    src: url(../fonts/serif/ultra-regular.ttf) format('truetype');
+    font-style:normal;
+    font-weight:500;
 }
 
 body {
