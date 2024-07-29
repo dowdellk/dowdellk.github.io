@@ -260,7 +260,7 @@ nav a:active {
     grid-column:1;
     grid-row:2;
     display:inline-block;
-    object-fit:cover;
+    object-fit:contain;
     white-space:nowrap;
 }
 
@@ -286,7 +286,7 @@ figcaption {
     margin-right:.2rem;
     max-width: 50%;
     max-height:50%;
-    /* object-fit:cover;*/
+    object-fit:contain;
 }
 
 aside {
