@@ -98,7 +98,6 @@ body {
     grid-template-rows:auto auto auto;
     grid-auto-rows:minmax(100px, 130px);
     grid-auto-columns:minmax(100px, 200px);
-    overflow-x:hidden;
   
 }
 
