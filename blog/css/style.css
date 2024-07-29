@@ -250,8 +250,6 @@ figcaption {
     max-width: 70%;
     max-height:70%;
     object-fit:fill;
-    min-width:60%;
-    min-height:60%;
 }
 
 aside {
