@@ -285,7 +285,7 @@ figcaption {
     margin-left:.2rem;
     margin-right:.2rem;
     max-width: 50%;
-    max-height:75%;
+    max-height:50%;
     object-fit:cover;
 }
 
@@ -312,7 +312,7 @@ aside {
 .imgrow {
     display:flex;
     /* object-fit:contain; */
-    max-width:60%;
+    max-width:50%;
     
 } 
 
