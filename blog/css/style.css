@@ -279,6 +279,6 @@ aside {
     max-width:auto;
     margin-left:0;
     justify-self:start;
-    
+    display:flex; 
     
 }
