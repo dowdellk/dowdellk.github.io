@@ -209,8 +209,7 @@ nav a:active {
     text-transform:uppercase;
     text-decoration:none;
     text-align:center;
-    background-color:rgb(159, 244, 216);
-    border:solid black .1rem;
+    background-color:black;
     box-shadow:grey .3rem .3rem;
     border-radius:1rem;
     padding:1rem;
@@ -220,6 +219,7 @@ nav a:active {
 }
 
 .subscribe a {
+    color:rgb(159, 244, 216);
     font-family:Ultra, Georgia, serif;
     font-weight:400;
 }
