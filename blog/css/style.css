@@ -61,6 +61,13 @@ p {
     line-height:150%;
 }
 
+.notlink {
+    font-family:Roboto, Helvetica, sans-serif;
+    font-size:1.8rem;
+    color:black;
+    text-decoration:none;
+    font-weight:200;
+}
 @font-face {
     font-family:Rozha One;
     src: url(../fonts/serif/rozhaone-regular.ttf) format('opentype');
@@ -183,6 +190,7 @@ nav a {
     font-size:1.8rem;
     color:black;
     text-decoration:none;
+    font-weight:200;
 }
 
 nav a:hover {
