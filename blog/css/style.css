@@ -186,6 +186,7 @@ nav a:active {
     color:black;
     text-transform:uppercase;
     font-family:Rozha One, Georgia, serif;
+    text-decoration-style:double;
     font-size:1.8rem;
     text-shadow:grey;
     text-align:center;
