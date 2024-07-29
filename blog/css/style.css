@@ -324,3 +324,8 @@ hr {
     color:black;
     size:.1rem;
 }
+
+.expand {
+    font-size:1rem;
+    text-transform:none;
+}
