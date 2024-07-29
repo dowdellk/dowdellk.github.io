@@ -133,7 +133,7 @@ body {
     border-top-left-radius:.5rem;
     border-bottom-right-radius:.5rem;
     box-shadow:rgb(172, 171, 171) .2rem .2rem;
-    padding-bottom:1rem;
+    padding-bottom:1.5rem;
 
 }
 
@@ -147,7 +147,7 @@ h1 {
     padding-top:1rem;
     transform:rotate(-6deg);
     letter-spacing:.3rem;
-    padding-bottom:1rem;
+    padding-bottom:1.5rem;
 }
 
 h2 {
