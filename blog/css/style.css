@@ -286,7 +286,7 @@ figcaption {
     margin-right:.2rem;
     max-width: 50%;
     max-height:50%;
-    object-fit:cover;
+    /* object-fit:cover;*/
 }
 
 aside {
