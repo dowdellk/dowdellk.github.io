@@ -129,11 +129,11 @@ body {
     background-color:black;
     text-transform:uppercase;
     letter-spacing:.4rem;
-    font-weight:600;
+    font-weight:500;
     border-top-left-radius:.5rem;
     border-bottom-right-radius:.5rem;
-    box-shadow:rgb(172, 171, 171) .2rem .2rem;
-    padding-bottom:1.5rem;
+    box-shadow:grey .2rem .2rem;
+    margin:.5rem;
 
 }
 
@@ -142,7 +142,7 @@ h1 {
     font-size:3rem;
     font-weight:300;
     text-align:center;
-    text-shadow:.1rem .1rem grey;
+    text-shadow:.1rem .1rem rgb(20, 115, 98);
     padding-bottom:1rem;
     padding-top:1rem;
     transform:rotate(-6deg);
