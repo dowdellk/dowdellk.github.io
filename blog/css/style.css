@@ -200,8 +200,7 @@ nav a:active {
 }
 
 .subscribe {
-    font-family:Ultra, Georgia, serif;
-    font-weight:400;
+    
     grid-column:1;
     grid-row:3;
     text-transform:uppercase;
@@ -216,6 +215,11 @@ nav a:active {
     width:15rem;
     height:5rem;
     
+}
+
+.subscribe a {
+    font-family:Ultra, Georgia, serif;
+    font-weight:400;
 }
 
 .subscribe a:hover {
