@@ -87,7 +87,7 @@ body {
     box-sizing:border-box;
     display:grid;
     column-count:2;
-    grid-template-columns: 3fr 1fr;
+    grid-template-columns:3fr 1fr;
     grid-column-gap:.5rem;
     grid-template-rows:auto auto auto;
     grid-auto-rows:minmax(100px, 130px);
@@ -191,6 +191,7 @@ nav a:active {
     background-color:rgb(159, 244, 216);
     border:solid black .2rem;
     margin:.5 rem;
+    box-shadow:grey 2rem 2rem;
 }
 
 .subscribe a:hover {
