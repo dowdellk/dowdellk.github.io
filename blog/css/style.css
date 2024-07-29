@@ -192,7 +192,8 @@ nav a:active {
     background-color:rgb(159, 244, 216);
     border:solid black .2rem;
     margin:.5 rem;
-    box-shadow:grey 2rem 2rem;
+    box-shadow:grey .5rem .5rem;
+    border-radius:1rem;
 }
 
 .subscribe a:hover {
