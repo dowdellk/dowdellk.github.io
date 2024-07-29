@@ -272,7 +272,7 @@ aside {
 
 .imgaside {
     max-inline-size:100%;
-    max-width:90%;
+    max-width:auto;
     margin-left:0;
     justify-self:start;
     
