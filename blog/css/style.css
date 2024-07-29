@@ -326,7 +326,7 @@ aside {
 }
 
 hr {
-    color:solid black;
+    color:.1rem solid black;
 }
 
 .expand {
