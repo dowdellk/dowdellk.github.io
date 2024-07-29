@@ -91,7 +91,6 @@ body {
 
 .container {
     box-sizing:border-box;
-    grid-row-end:70%;
     display:grid;
     column-count:2;
     grid-template-columns:2fr 1fr;
