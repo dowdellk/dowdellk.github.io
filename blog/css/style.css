@@ -318,7 +318,7 @@ aside {
 
 .imgaside {
     
-    max-width:140px;
+    max-width:200px;
     margin-left:0;
     justify-self:start;
     display:flex; 
