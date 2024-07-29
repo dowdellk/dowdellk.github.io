@@ -133,7 +133,8 @@ body {
     border-top-left-radius:.5rem;
     border-bottom-right-radius:.5rem;
     box-shadow:grey .2rem .2rem;
-    margin:.5rem;
+    padding:1rem;
+
 
 }
 
