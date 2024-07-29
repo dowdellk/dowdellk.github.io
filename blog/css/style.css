@@ -259,8 +259,8 @@ figcaption {
     background-color:rgb(159, 244, 216);
     caption-side:bottom;
     display:inline-block;
-    margin-left:.1rem;
-    margin-right:.1rem;
+    margin-left:.2rem;
+    margin-right:.2rem;
     max-width: 70%;
     max-height:70%;
     object-fit:cover;
