@@ -319,3 +319,8 @@ aside {
     display:flex; 
     
 }
+
+hr {
+    height:.3rem;
+    background-color:black;
+}
