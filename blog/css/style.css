@@ -193,7 +193,8 @@ nav a:active {
     border:solid black .2rem;
     margin:.5 rem;
     box-shadow:grey .5rem .5rem;
-    border-radius:1rem;
+    border-radius:6rem;
+    padding:1rem;
 }
 
 .subscribe a:hover {
