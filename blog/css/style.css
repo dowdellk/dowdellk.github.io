@@ -170,8 +170,8 @@ h3 {
 }
 
 .topnav {
-    border-top:.2rem solid #2f3131;
-    border-bottom:.2rem solid #2f3131;
+    border-top:.1rem solid black;
+    border-bottom:.1rem solid black;
     padding-top:1.8rem;
     padding-bottom:1.3rem;
     text-align:left;
