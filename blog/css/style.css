@@ -86,8 +86,7 @@ p {
 body {
     margin-left:2rem;
     margin-right:2rem;
-    height:95vh;
-    width:95vh;
+    width:95%;
 }
 
 .container {
@@ -100,6 +99,8 @@ body {
     grid-auto-rows:minmax(100px, 130px);
     grid-auto-columns:minmax(100px, 200px);
     width:fit-content;
+    height:95vh;
+    width:95vh;
 }
 
 /* .one {
@@ -147,7 +148,7 @@ h1 {
     padding-bottom:1rem;
     padding-top:1rem;
     transform:rotate(-6deg);
-    letter-spacing:.4rem;
+    letter-spacing:.3rem;
 }
 
 h2 {
