@@ -144,8 +144,8 @@ h1 {
     font-weight:300;
     text-align:center;
     text-shadow:.1rem .1rem rgb(20, 115, 98);
-    padding-bottom:1rem;
-    padding-top:1rem;
+    padding-bottom:.6rem;
+    padding-top:.6rem;
     transform:rotate(-6deg);
     letter-spacing:.3rem;
     padding-bottom:1.5rem;
