@@ -195,6 +195,7 @@ nav a:hover {
     font-size:1.8rem;
     color:blue;
     text-decoration-line:underline;
+    transform:rotate(-2deg);
     
 }
 
