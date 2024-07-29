@@ -249,7 +249,7 @@ figcaption {
     margin-right:.1rem;
     max-width: 70%;
     max-height:70%;
-    object-fit:fill;
+    object-fit:cover;
 }
 
 aside {
