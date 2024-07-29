@@ -246,7 +246,8 @@ figcaption {
     caption-side:bottom;
     display:inline-block;
     margin:0;
-    padding:0;
+    padding-left:.1rem;
+    padding-right:.1rem;
     max-width: 70%;
     max-height:70%;
     object-fit:fill;
