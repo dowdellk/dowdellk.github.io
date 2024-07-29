@@ -86,8 +86,8 @@ p {
 body {
     margin-left:2rem;
     margin-right:2rem;
-    width:100%;
-    min-width:56rem;
+    height:95vh;
+    width:95vh;
 }
 
 .container {
