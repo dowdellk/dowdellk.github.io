@@ -263,6 +263,8 @@ aside {
     grid-column:2;
     grid-row:1 / all;
     display:grid;
+    align-items:left;
+    align-content:left;
 }
 
 .imgrow {
