@@ -304,6 +304,10 @@ aside {
     align-content:left;
 }
 
+.asidetext {
+    font-size:12px;
+}
+
 .imgrow {
     display:flex;
     /* object-fit:contain; */
