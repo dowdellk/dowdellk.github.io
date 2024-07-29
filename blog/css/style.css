@@ -124,16 +124,18 @@ body {
     */
 
 .highlight {
-    border-style:dotted;
-    border-width:.3rem;
+    
+    font-family:Ultra, Georgia, serif;
     background-color:rgb(159, 244, 216);
     text-transform:uppercase;
-    text-decoration:none;
     letter-spacing:.3rem;
+    font-weight:600;
+    border-top-left-radius:.5rem;
+    border-bottom-right-radius:.5rem;
 }
 
 h1 {
-    font-family:Ultra, Georgia, serif;
+    font-family:Roboto, Helvetica, sans-serif;
     font-size:3rem;
     font-weight:300;
     text-align:center;
