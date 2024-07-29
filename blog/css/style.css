@@ -204,7 +204,7 @@ nav a:active {
     text-decoration:none;
     text-align:center;
     background-color:rgb(159, 244, 216);
-    border:solid black .5rem;
+    border:solid black .1rem;
     margin:.5 rem;
     box-shadow:grey .3rem .3rem;
     border-radius:3rem;
