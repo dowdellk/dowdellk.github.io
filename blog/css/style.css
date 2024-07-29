@@ -132,6 +132,7 @@ body {
     font-weight:600;
     border-top-left-radius:.5rem;
     border-bottom-right-radius:.5rem;
+    box-shadow:grey .3rem .3rem;
 }
 
 h1 {
@@ -139,7 +140,7 @@ h1 {
     font-size:3rem;
     font-weight:300;
     text-align:center;
-    text-shadow:.2rem .2rem rgb(159, 244, 216);
+    text-shadow:.2rem .2rem grey;
     padding-bottom:1rem;
     padding-top:1rem;
     transform:rotate(-6deg);
