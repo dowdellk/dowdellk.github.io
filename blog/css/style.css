@@ -344,7 +344,7 @@ hr {
     color:black;
 }
 
-.expand {
+.expand a {
     font-family:Roboto, Helvetica, sans-serif;
     font-size:12px;
     text-transform:none;
