@@ -359,10 +359,10 @@ aside {
     margin-left:0;
     padding-left:0;
     justify-self:start;
-    display:inline;
+    display:grid;
     align-self:left;
     object-position:left;
-    object-fit:cover;
+    object-fit:fill;
     justify-items:left;
     justify-content:left;
     
