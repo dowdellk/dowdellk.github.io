@@ -219,7 +219,7 @@ nav a:active {
     text-decoration:none;
     text-align:center;
     background-color:black;
-    box-shadow:grey .3rem .3rem;
+    box-shadow: .2rem .2rem rgba(128,128,128,0.3);
     border-radius:1rem;
     padding:1rem;
     width:15rem;
@@ -355,3 +355,5 @@ hr {
     text-transform:none;
     text-decoration-line:none;
 }
+
+.expand a:
