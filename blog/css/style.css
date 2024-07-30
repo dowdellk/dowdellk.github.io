@@ -316,6 +316,7 @@ aside {
     min-width:200px;
     justify-items:left;
     text-align:left;
+    object-fit:contain;
 }
 
 .asidetext {
