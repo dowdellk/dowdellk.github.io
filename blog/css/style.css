@@ -345,7 +345,7 @@ aside {
 .imgrow {
     
     max-height:auto;
-    max-width:auto;
+    max-width:300px;
     object-fit:scale-down;
     
     
