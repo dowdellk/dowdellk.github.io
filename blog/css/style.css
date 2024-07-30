@@ -354,14 +354,14 @@ aside {
 
 .imgaside {
     
-    max-inline-size:75%;
-    max-width:75%;
-    max-height:75%;
+    max-inline-size:80%;
+    max-width:80%;
+    max-height:80%;
     margin-left:0;
     padding-left:0;
     justify-self:start;
     display:grid;
-    align-self:left;
+    align-self:start;
     object-position:left;
     object-fit:fill;
     justify-items:left;
