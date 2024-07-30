@@ -342,6 +342,7 @@ aside {
     
     max-height:auto;
     max-width:auto;
+    object-fit:scale-down;
     
     
 } 
