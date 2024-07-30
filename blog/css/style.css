@@ -113,6 +113,17 @@ body {
     align-self:left;
 }
 
+.container figure {
+    object-fit:contain;
+    align-items:left;
+    align-content:left;
+    justify-items:left;
+    justify-content:left;
+    text-align:left;
+    align-self:left;
+
+}
+
 /* .one {
     grid-column:1;
     grid-row:1;
