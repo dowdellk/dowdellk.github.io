@@ -103,6 +103,10 @@ body {
   
 }
 
+.container img {
+    object-fit:contain;
+}
+
 /* .one {
     grid-column:1;
     grid-row:1;
