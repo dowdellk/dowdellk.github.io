@@ -177,9 +177,9 @@ h3 {
     text-align:left;
     word-spacing:7rem;
     margin-right:0;
-    margin-left:2rem;
+    margin-left:0;
     padding-right:0;
-    padding-left:0;
+    padding-left:2rem;
 }
 
 nav a {
