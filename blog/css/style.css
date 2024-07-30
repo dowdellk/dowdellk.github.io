@@ -366,6 +366,7 @@ aside {
     object-fit:fill;
     justify-items:left;
     justify-content:left;
+    float:left;
     
 }
 
