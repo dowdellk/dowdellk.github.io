@@ -334,8 +334,8 @@ aside {
 
 .imgaside {
     
-    max-width:300px;
-    max-height:auto;
+    min-width:250px;
+    min-height:auto;
     max-inline-size:100%;
     margin-left:0;
     padding-left:0;
