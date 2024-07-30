@@ -136,7 +136,6 @@ body {
     box-shadow:rgb(20, 115, 98);
     padding:.9rem;
 
-
 }
 
 h1 {
@@ -261,8 +260,9 @@ nav a:active {
     grid-row:2;
     display:inline-block;
     object-fit:contain;
-    white-space:nowrap;
+
 }
+    /* white-space:nowrap; */
 
 /* .figurerow {
     background-color:rgb(159, 244, 216);
