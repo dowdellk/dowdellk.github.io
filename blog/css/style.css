@@ -266,6 +266,7 @@ nav a:active {
     grid-row:2;
     display:inline-block;
     object-fit:contain;
+    max-width:max-content;
 
 }
     /* white-space:nowrap; */
