@@ -347,6 +347,7 @@ aside {
     max-height:auto;
     max-width:300px;
     object-fit:scale-down;
+    display:inline-block;
     
     
 } 
