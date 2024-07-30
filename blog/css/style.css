@@ -334,9 +334,7 @@ aside {
 
 .imgaside {
     float:left;
-    min-width:fit-content;
-    min-height:auto;
-    max-inline-size:100%;
+    max-inline-size:70%;
     margin-left:0;
     padding-left:0;
     justify-self:start;
