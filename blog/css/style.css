@@ -271,7 +271,7 @@ nav a:active {
     grid-row-end:1160px;
     display:inline-block;
     object-fit:contain;
-    max-width:max-content;
+    max-width:300px;
 
 }
     /* white-space:nowrap; */
