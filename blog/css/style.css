@@ -361,4 +361,6 @@ hr {
     text-decoration-line:none;
 }
 
-.expand a:
+footer {
+    margin-left:2rem;
+}
