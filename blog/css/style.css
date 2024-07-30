@@ -271,7 +271,6 @@ nav a:active {
     grid-row-end:1160px;
     display:inline-block;
     object-fit:contain;
-    max-width:300px;
 
 }
     /* white-space:nowrap; */
@@ -296,11 +295,10 @@ figcaption {
     display:inline-block;
     margin-left:.2rem;
     margin-right:.2rem;
-    max-width: 50%;
-    max-height:50%;
     object-fit:contain;
     max-inline-size:50%;
     max-block-size:50%;
+    max-width:300px;
 }
 
 aside {
@@ -330,6 +328,8 @@ aside {
     object-fit:contain;
     width:min-content;
     max-height:auto;
+    max-width:300px;
+    
     
 } 
 
