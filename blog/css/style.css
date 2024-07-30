@@ -357,7 +357,7 @@ aside {
     max-inline-size:80%;
     max-width:80%;
     max-height:80%;
-    margin-left:0;
+    margin-left:-1rem;
     padding-left:0;
     justify-self:start;
     display:grid;
