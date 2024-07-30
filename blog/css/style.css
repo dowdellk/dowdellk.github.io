@@ -314,7 +314,7 @@ aside {
     
     object-fit:contain;
     width:min-content;
-    max-width:90%;
+    max-width:120%;
     max-height:auto;
     
 } 
