@@ -360,6 +360,7 @@ aside {
     max-height:80%;
     margin-left:0;
     padding-left:0;
+    margin-right:2rem;
     justify-self:start;
     display:grid;
     align-self:start;
