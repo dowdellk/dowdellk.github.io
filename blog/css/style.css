@@ -264,6 +264,7 @@ nav a:active {
     
     grid-column:1;
     grid-row:2;
+    grid-row-end:1160px;
     display:inline-block;
     object-fit:contain;
     max-width:max-content;
