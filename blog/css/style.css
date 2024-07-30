@@ -221,6 +221,7 @@ nav a:nth-child(2) {
     font-size:1.8rem;
     color:black;
     text-transform:uppercase;
+    text-decoration-style:dotted;
     transform:rotate(-2deg);
     font-weight:double;
     text-shadow:.2rem solid black;
