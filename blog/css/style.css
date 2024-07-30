@@ -314,6 +314,7 @@ aside {
     align-content:left;
     min-width:200px;
     justify-items:left;
+    justify-content:left;
     text-align:left;
     object-fit:contain;
 }
@@ -344,6 +345,8 @@ aside {
     align-self:left;
     object-position:left;
     object-fit:contain;
+    justify-items:left;
+    justify-content:left;
     
 }
 
