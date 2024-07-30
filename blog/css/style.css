@@ -333,11 +333,12 @@ aside {
     text-align:left;
     object-fit:contain;
     align-self:left;
-    display:block;
+    display:grid;
 }
 
 .asidetext {
     font-size:12px;
+    float:left;
 }
 
 .imgrow {
