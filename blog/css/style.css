@@ -396,4 +396,5 @@ footer {
 
 .footerattr {
     float:right;
+    text-justify:right;
 }
