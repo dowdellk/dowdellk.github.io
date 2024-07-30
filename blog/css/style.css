@@ -325,9 +325,8 @@ aside {
 
 .imgrow {
     
-    object-fit:contain;
-    max-height:auto;
-    max-width:380px;
+    max-height:60%;
+    max-width:60%
     
     
 } 
