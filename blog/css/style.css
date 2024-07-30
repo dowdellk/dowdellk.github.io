@@ -94,7 +94,7 @@ body {
     display:grid;
     column-count:2;
     grid-template-columns:auto 300px;
-    grid-column-gap:.3rem;
+    grid-column-gap:.5rem;
     grid-template-rows:auto auto auto;
     margin-left:2rem;
     margin-right:2rem;
