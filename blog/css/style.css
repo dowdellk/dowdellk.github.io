@@ -310,9 +310,10 @@ aside {
 }
 
 .imgrow {
-    display:flex;
+    display:grid;
     object-fit:contain;
-    max-width:50%;
+    max-width:100%;
+    max-height:auto;
     
 } 
 
