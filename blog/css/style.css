@@ -308,7 +308,7 @@ aside {
     padding-top:0;
     margin-top:0;
     margin-left:1.5rem;
-    margin-right:.5rem;
+    margin-right:1.5rem;
     grid-column:2;
     grid-row:1 / all;
     align-items:left;
