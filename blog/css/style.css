@@ -310,7 +310,10 @@ figcaption {
     caption-side:bottom;
     margin-left:.2rem;
     margin-right:.2rem;
-    object-fit:contain;
+    object-fit:scale-down;
+    display:inline-block;
+    max-width:300px;
+    max-height:auto;
 }
 
 aside {
