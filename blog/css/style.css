@@ -313,7 +313,7 @@ aside {
     grid-row:1 / all;
     align-items:left;
     align-content:left;
-    min-width:150px;
+    min-width:200px;
     justify-items:left;
     text-align:left;
 }
