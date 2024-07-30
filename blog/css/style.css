@@ -159,6 +159,7 @@ h2 {
     text-align:left;
     padding-top:1rem;
     padding-bottom:0;
+    margin-bottom:0;
     margin-left:2rem;
 }
 
@@ -175,6 +176,7 @@ h3 {
     border-bottom:.1rem solid black;
     padding-top:1.8rem;
     padding-bottom:1.3rem;
+    margin-bottom:0;
     text-align:left;
     word-spacing:7rem;
     margin-right:0;
