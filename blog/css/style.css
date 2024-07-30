@@ -105,6 +105,12 @@ body {
 
 .container img {
     object-fit:contain;
+    align-items:left;
+    align-content:left;
+    justify-items:left;
+    justify-content:left;
+    text-align:left;
+    align-self:left;
 }
 
 /* .one {
