@@ -329,8 +329,8 @@ aside {
 }
 
 hr {
-    color:.1rem;
-    border-style:black;
+    border-color:black;
+    color:black;
 }
 
 .expand {
