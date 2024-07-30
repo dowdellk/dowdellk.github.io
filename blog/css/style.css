@@ -285,8 +285,8 @@ nav a:active {
     
     grid-column:1;
     grid-row:2;
-    display:inline-grid;
-    object-fit:contain;
+    display:inline-block;
+    object-fit:fill;
 
 }
     /* white-space:nowrap; */
