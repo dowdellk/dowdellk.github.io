@@ -285,7 +285,7 @@ nav a:active {
     
     grid-column:1;
     grid-row:2;
-    display:inline-block;
+    display:inline-grid;
     object-fit:contain;
 
 }
