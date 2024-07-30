@@ -341,7 +341,7 @@ aside {
     margin-left:0;
     padding-left:0;
     justify-self:start;
-    display:flex; 
+    display:inline;
     align-self:left;
     object-position:left;
     object-fit:contain;
