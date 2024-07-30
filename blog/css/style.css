@@ -311,7 +311,6 @@ aside {
     margin-right:.5rem;
     grid-column:2;
     grid-row:1 / all;
-    float:right;
     align-items:left;
     align-content:left;
     min-width:150px;
