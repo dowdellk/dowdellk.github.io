@@ -208,7 +208,7 @@ nav a:active {
 }
 
 .subscribe {
-    
+    padding-left:2rem;
     grid-column:1;
     grid-row:3;
     text-transform:uppercase;
