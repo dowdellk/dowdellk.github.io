@@ -334,6 +334,7 @@ aside {
     max-height:auto;
     max-inline-size:100%;
     margin-left:0;
+    padding-left:0;
     justify-self:start;
     display:flex; 
     align-self:left;
