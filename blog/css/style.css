@@ -299,7 +299,6 @@ figcaption {
     max-inline-size:50%;
     max-block-size:50%;
     max-width:300px;
-    object-fit:contain;
 }
 
 aside {
@@ -318,7 +317,6 @@ aside {
     min-width:150px;
     justify-items:left;
     text-align:left;
-    object-fit:contain;
 }
 
 .asidetext {
@@ -330,15 +328,14 @@ aside {
     object-fit:contain;
     width:min-content;
     max-height:auto;
-    max-width:300px;
     
     
 } 
 
 .imgaside {
     
-    min-width:300px;
-    min-height:auto;
+    max-width:300px;
+    max-height:auto;
     max-inline-size:100%;
     margin-left:0;
     padding-left:0;
