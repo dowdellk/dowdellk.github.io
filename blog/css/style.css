@@ -364,3 +364,11 @@ hr {
 footer {
     margin-left:2rem;
 }
+
+.footercopy {
+    float:left;
+}
+
+.footerattr {
+    float:right;
+}
