@@ -330,6 +330,8 @@ aside {
     justify-self:start;
     display:flex; 
     align-self:left;
+    object-position:left;
+    object-fit:contain;
     
 }
 
