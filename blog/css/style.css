@@ -423,7 +423,8 @@ footer p {
     text-align:end;
 }
 
-.footerattribution {
+.footerattributenormal {
+    font-family:Roboto, Helvetica, sans-serif;
     float:right;
     text-align:end;
 }
