@@ -386,6 +386,7 @@ aside {
     text-align:left;
     display:block;
     margin-inline-start:0;
+    object-fit:start;
     /* justify-self:start;
     display:block;
     align-self:start;
