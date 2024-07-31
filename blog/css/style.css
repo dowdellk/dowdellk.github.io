@@ -373,14 +373,12 @@ aside {
     margin-right:5rem;
     margin-bottom:.5rem;
     justify-self:start;
-    display:grid;
+    display:block;
     align-self:start;
     object-position:left;
     object-fit:cover;
     justify-items:left;
     justify-content:left;
-    float:left;
-    vertical-align:top;
     position:left;
 }
 
