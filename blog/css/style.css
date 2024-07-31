@@ -375,7 +375,9 @@ aside img {
     object-fit:contain;
     object-position:left;
     align-self:left;
-    display:block;
+    display:flex;
+    flex-direction:column;
+    align-items:flex-start;
 
 }
 
