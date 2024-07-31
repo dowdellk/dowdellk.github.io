@@ -319,8 +319,7 @@ figcaption {
 .figurerow {
     background-color:rgb(159, 244, 216);
     caption-side:bottom;
-    margin-left:.2rem;
-    margin-right:0;
+    margin:.3rem;
     object-fit:scale-down;
     display:inline-block;
     max-width:354px;
