@@ -371,6 +371,7 @@ aside {
     max-height:300px;
     margin-left:0;
     padding-left:0;
+    padding-right:2rem;
     margin-right:2rem;
     margin-bottom:.5rem;
     justify-self:start;
