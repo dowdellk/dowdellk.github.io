@@ -404,7 +404,10 @@ footer {
     margin-right:1.8rem;
 }
 
-
+footer p {
+    float:right;
+    text-align:end;
+}
 
 .footercopy {
     float:left;
