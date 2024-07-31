@@ -406,6 +406,8 @@ footer {
 
 .footerattributeserif {
     font-family:'Times New Roman', Georga, serif;
+    float:right;
+    text-align:end;
 }
 
 .footerattribution {
