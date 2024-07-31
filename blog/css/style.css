@@ -383,7 +383,7 @@ aside {
     justify-content:left;
     float:left;
     vertical-align:top;
-    
+    position:relative;
 }
 
 hr {
