@@ -361,6 +361,19 @@ aside {
     /* display:block; */
 }
 
+aside img {
+    align-items:left;
+    align-content:left;
+    justify-items:left;
+    justify-content:left;
+    text-align:left;
+    object-fit:contain;
+    object-position:left;
+    align-self:left;
+    display:block;
+
+}
+
 .asidetext {
     font-size:12px;
     margin-bottom:1.5rem;
