@@ -319,10 +319,10 @@ figcaption {
 .figurerow {
     background-color:rgb(159, 244, 216);
     caption-side:bottom;
-    margin:.3rem;
+    margin:.4rem;
     object-fit:scale-down;
     display:inline-block;
-    max-width:354px;
+    max-width:355px;
     max-height:auto;
 }
 
@@ -356,7 +356,7 @@ aside {
 .imgrow {
     
     max-height:430px;
-    max-width:354px;
+    max-width:355px;
     object-fit:scale-down;
     display:inline-block;
     
