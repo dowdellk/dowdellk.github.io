@@ -320,7 +320,7 @@ figcaption {
     background-color:rgb(159, 244, 216);
     caption-side:bottom;
     margin-left:.2rem;
-    margin-right:.2rem;
+    margin-right:0;
     object-fit:scale-down;
     display:inline-block;
     max-width:337px;
