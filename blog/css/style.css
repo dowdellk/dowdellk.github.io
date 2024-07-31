@@ -416,14 +416,16 @@ footer {
     float:left;
 }
 
-.footerattributeserif {
-    font-family:'Times New Roman', Georga, serif;
+.footerattrib {
     float:right;
     text-justify:right;
 }
 
+.footerattributeserif {
+    font-family:'Times New Roman', Georgia, serif;
+    
+}
+
 .footerattributenormal {
     font-family:Roboto, Helvetica, sans-serif;
-    float:right;
-    text-justify:right;
 }
