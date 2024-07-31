@@ -228,7 +228,7 @@ nav a:hover {
     font-family:Roboto, Helvetica, sans-serif;
     font-size:1.8rem;
     color:blue;
-    text-decoration-line:line-through;
+    text-decoration-line:underline;
     transform:rotate(-2deg);
     
 }
