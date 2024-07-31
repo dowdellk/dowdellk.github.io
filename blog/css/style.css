@@ -366,6 +366,7 @@ aside {
     
     width:auto;
     max-height:280px;
+    float:left;
     /* justify-self:start;
     display:block;
     align-self:start;
