@@ -344,7 +344,7 @@ aside {
     text-align:left;
     object-fit:contain;
     align-self:left;
-    display:inline-block;
+    display:flex;
     /* display:block; */
     vertical-align:top;
 }
@@ -383,7 +383,7 @@ aside {
     justify-content:left;
     float:left;
     vertical-align:top;
-    position:relative;
+    position:flex;
 }
 
 hr {
