@@ -377,10 +377,10 @@ aside {
 .imgaside {
     
     width:fit-content;
-    height:290px;
+    height:300px;
     float:left;
-    margin-bottom:.8rem;
-    padding-bottom:.8rem;
+    margin-bottom:.5rem;
+    padding-bottom:.5rem;
     /* justify-self:start;
     display:block;
     align-self:start;
