@@ -365,15 +365,15 @@ aside {
 .imgaside {
     
     width:auto;
-    max-height:300px;
-    justify-self:start;
+    max-height:280px;
+    /* justify-self:start;
     display:block;
     align-self:start;
     object-position:left;
     object-fit:cover;
     justify-items:left;
     justify-content:left;
-    position:left;
+    position:left; */
 }
 
 hr {
