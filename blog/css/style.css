@@ -409,10 +409,6 @@ footer {
     margin-right:1.8rem;
 }
 
-footer p {
-    float:right;
-    text-align:end;
-}
 
 .footercopy {
     float:left;
@@ -421,11 +417,11 @@ footer p {
 .footerattributeserif {
     font-family:'Times New Roman', Georga, serif;
     float:right;
-    text-align:end;
+    text-justify:right;
 }
 
 .footerattributenormal {
     font-family:Roboto, Helvetica, sans-serif;
     float:right;
-    text-align:end;
+    text-justify:right;
 }
