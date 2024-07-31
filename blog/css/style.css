@@ -344,7 +344,8 @@ aside {
     text-align:left;
     object-fit:contain;
     align-self:left;
-    display:block;
+    /* display:block; */
+    vertical-align:top;
 }
 
 .asidetext {
