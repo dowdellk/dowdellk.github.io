@@ -379,7 +379,7 @@ aside {
 
 .imgaside {
     
-    width:300px;
+    width:fit-content;
     height:300px;
     margin-bottom:.4rem;
     padding-bottom:.4rem;
