@@ -354,7 +354,7 @@ aside {
 }
 
 .imgrow {
-   
+    margin:.3rem;
     max-height:430px;
     max-width:354px;
     object-fit:scale-down;
