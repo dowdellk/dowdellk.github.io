@@ -354,8 +354,7 @@ aside {
 }
 
 .imgrow {
-    margin-left:auto;
-    margin-right:auto;
+   
     max-height:430px;
     max-width:354px;
     object-fit:scale-down;
@@ -371,7 +370,7 @@ aside {
     margin-left:0;
     padding-left:0;
     padding-right:2rem;
-    margin-right:2rem;
+    margin-right:5rem;
     margin-bottom:.5rem;
     justify-self:start;
     display:grid;
