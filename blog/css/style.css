@@ -98,6 +98,8 @@ body {
     grid-template-rows:auto auto auto;
     margin-left:2.2rem;
     margin-right:2rem;
+    align-items:left;
+    align-content:left;
     /* grid-auto-rows:auto;
     grid-auto-columns:auto;
     position:relative;*/
