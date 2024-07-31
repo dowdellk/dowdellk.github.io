@@ -377,7 +377,7 @@ aside {
 .imgaside {
     
     width:200px;
-    max-height:280px;
+    height:280px;
     float:left;
     margin-bottom:.5rem;
     padding-bottom:.5rem;
