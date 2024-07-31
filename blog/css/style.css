@@ -86,14 +86,14 @@ p {
 body {
     margin-left:0;
     margin-right:0;
-    min-width:56.25rem;
+    min-width:56rem;
 }
 
 .container {
     box-sizing:border-box;
     display:grid;
     column-count:2;
-    grid-template-columns:70rem 25rem;
+    grid-template-columns:70rem 24rem;
     grid-column-gap:.5rem;
     grid-template-rows:auto auto auto;
     margin-left:2rem;
