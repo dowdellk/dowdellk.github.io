@@ -385,6 +385,7 @@ aside {
     padding-bottom:.4rem;
     text-align:left;
     display:block;
+    margin-inline-start:0;
     /* justify-self:start;
     display:block;
     align-self:start;
