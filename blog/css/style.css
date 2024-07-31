@@ -404,13 +404,11 @@ footer {
     float:left;
 }
 
-.footerattributenorm {
-    float:right;
-    text-align:end;
-}
-
 .footerattributeserif {
     font-family:'Times New Roman', Georga, serif;
+}
+
+.footerattribution {
     float:right;
     text-align:end;
 }
