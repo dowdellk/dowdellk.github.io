@@ -224,6 +224,18 @@ nav a:nth-child(2) {
     text-shadow:.2rem solid black;
 }
 
+nav a:hover:nth-child(2) {
+    font-family:Roboto, Helvetica, sans-serif;
+    font-size:1.8rem;
+    color:rgb(92, 86, 86);
+    text-shadow:.2rem rgba(95,95,95,0.3);
+    text-decoration-line:line-through;
+    text-transform:uppercase;
+    font-weight:double;
+    text-shadow:.2rem solid black;
+}
+
+
 nav a:hover {
     font-family:Roboto, Helvetica, sans-serif;
     font-size:1.8rem;
