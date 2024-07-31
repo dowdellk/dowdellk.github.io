@@ -217,7 +217,7 @@ nav a {
 nav a:nth-child(2) {
     font-family:Roboto, Helvetica, sans-serif;
     font-size:1.8rem;
-    color:black;
+    color:rgb(42, 40, 40);
     text-shadow:.2rem rgba(95,95,95,0.3);
     text-transform:uppercase;
     font-weight:double;
