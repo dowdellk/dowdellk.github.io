@@ -379,6 +379,7 @@ aside {
     justify-items:left;
     justify-content:left;
     float:left;
+    vertical-align:top;
     
 }
 
