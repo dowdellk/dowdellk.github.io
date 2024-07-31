@@ -406,11 +406,11 @@ footer {
 
 .footerattributenorm {
     float:right;
-    text-justify:right;
+    text-align:end;
 }
 
 .footerattributeserif {
     font-family:'Times New Roman', Georga, serif;
     float:right;
-    text-justify:right;
+    text-align:end;
 }
