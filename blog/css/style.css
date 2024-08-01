@@ -379,6 +379,8 @@ aside img {
     object-fit:contain;
     object-position:left;
     align-self:left;
+    margin-left:0;
+    padding-left:0;
 
 }
 
@@ -413,6 +415,8 @@ aside img {
     justify-items:left;
     justify-content:left;
     position:left; 
+    margin-left:0;
+    padding-left:0;
 }
 
 hr {
