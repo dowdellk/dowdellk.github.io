@@ -404,9 +404,9 @@ aside img {
     display:inline-block;
     width:fit-content;
     height:300px;
-    margin-bottom:.4rem;
+    margin-bottom:0;
     margin-left:0;
-    padding-bottom:.4rem;
+    padding-bottom:0;
     padding-left:0;
     transform:translate(-16%);
 }
