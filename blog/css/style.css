@@ -399,12 +399,18 @@ aside img {
 
 .imgaside {
     
+    display:inline-block;
     width:fit-content;
     height:300px;
     margin-bottom:.4rem;
+    margin-left:0;
     padding-bottom:.4rem;
-    display:inline-block;
-    /* justify-self:start;
+    padding-left:0;
+    /* transform:translate(-16%) */
+}
+
+
+/* justify-self:start;
     display:block;
     align-self:start;
     object-position:left;
@@ -412,10 +418,6 @@ aside img {
     justify-items:left;
     justify-content:left;
     position:left; */ 
-    margin-left:0;
-    padding-left:0;
-    transform:translate(-16%)
-}
 
 hr {
     border-color:black;
