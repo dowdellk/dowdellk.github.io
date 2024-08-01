@@ -360,10 +360,11 @@ aside {
     object-fit:contain;
     object-position:left;
     align-self:left;
-    display:grid;
+    display:block;
+    /* display:grid;
     column-count:1;
     grid-template-rows:auto auto auto;
-    /* display:block; */
+     */
 }
 
 aside img {
