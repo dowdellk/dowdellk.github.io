@@ -178,6 +178,7 @@ h1 {
     margin-bottom:3rem;
     margin-left:2.2rem;
     margin-right:2.2rem;
+    position:sticky;
 }
 
 h2 {
