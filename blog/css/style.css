@@ -404,7 +404,7 @@ aside {
 .imgaside {
     
     display:inline-block;
-    width:fit-content;
+    width:250px;
     height:300px;
     margin-bottom:-.5rem;
     margin-left:0;
