@@ -208,6 +208,7 @@ h3 {
     word-spacing:7rem;
     padding-right:0;
     padding-left:2rem;
+    position:fixed;
 }
 
 nav a {
