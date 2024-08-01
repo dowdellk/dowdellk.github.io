@@ -368,7 +368,7 @@ aside {
      */
 }
 
-aside img {
+/* aside img {
     align-items:left;
     align-content:left;
     justify-items:left;
@@ -378,9 +378,9 @@ aside img {
     object-position:left;
     align-self:left;
     margin-left:0;
-    padding-left:0;
+    padding-left:0; 
 
-}
+} */
 
 .asidetext {
     font-size:12px;
