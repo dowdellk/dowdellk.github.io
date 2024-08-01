@@ -453,7 +453,7 @@ footer {
     float:right;
     text-justify:right;
     text-align:right;
-    position:fixed;
+    position:relative;
 }
 
 .footerattributeserif {
