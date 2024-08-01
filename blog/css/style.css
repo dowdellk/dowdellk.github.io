@@ -363,7 +363,7 @@ aside {
     /* object-fit:contain; */
     object-position:left;
     align-self:left;
-    display:block;
+    display:inline-block;
     /* display:grid;
     column-count:1;
     grid-template-rows:auto auto auto;
@@ -404,7 +404,7 @@ aside img {
     height:300px;
     margin-bottom:.4rem;
     padding-bottom:.4rem;
-    display:block;
+    display:inline-block;
     justify-self:start;
     display:block;
     align-self:start;
