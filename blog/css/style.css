@@ -254,7 +254,7 @@ nav a:active {
     font-family:Roboto, Helvetica, sans-serif;
     font-size:1.8rem;
     color:rgb(255, 255, 255);
-    background-color:rgb(159, 244, 216);
+    background-color:rgb(29, 117, 101);
     transform:rotate(-2deg);
 }
 
@@ -281,13 +281,15 @@ nav a:active {
 }
 
 .subscribe a:hover {
-    color:rgb(161, 158, 158);
-    text-decoration-line:underline;
+    font-family:Ultra, Georgia, serif;
+    font-weight:400;
+    color:rgb(159, 244, 216);
+    transform:
 }
 
 .subscribe a:active {
     color:rgb(159, 244, 216);
-    background-color:#2f3131;
+    background-color:#4e5050;
 }
 
 .article-image {
