@@ -424,7 +424,7 @@ aside {
 hr {
     border-color:black;
     color:black;
-    width:248px;
+    width:fit-content;
     transform:translate(-10px);
 
 }
