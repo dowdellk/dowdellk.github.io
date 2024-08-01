@@ -425,6 +425,8 @@ hr {
     border-color:black;
     color:black;
     width:88%;
+    align-items:left;
+    align-self:left;
 
 }
 
