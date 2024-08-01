@@ -344,7 +344,7 @@ figcaption {
 }
 
 aside {
-    width:fit-content;
+    
     border-left:.1rem solid black;
     padding-left:1.8rem;
     padding-right:2.8rem;
