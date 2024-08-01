@@ -225,8 +225,8 @@ nav a:nth-child(2) {
     color:rgb(103, 97, 97);
     text-shadow:.2rem rgba(95,95,95,0.5);
     text-transform:uppercase;
-    font-weight:double;
-    text-shadow:.2rem solid black;
+    font-weight:bolder;
+    text-shadow:.6rem solid black;
 }
 
 nav a:hover:nth-child(2) {
