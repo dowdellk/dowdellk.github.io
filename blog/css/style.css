@@ -361,8 +361,6 @@ aside {
     /* object-fit:contain; */
     object-position:left;
     align-self:left;
-    display:flex;
-    position:fixed;
     /* display:grid;
     column-count:1;
     grid-template-rows:auto auto auto;
