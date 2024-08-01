@@ -400,7 +400,7 @@ aside img {
 
 .imgaside {
     
-    width:fit-content;
+    width:max-content;
     height:300px;
     margin-bottom:.4rem;
     padding-bottom:.4rem;
