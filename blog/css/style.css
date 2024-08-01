@@ -284,7 +284,7 @@ nav a:active {
     font-family:Ultra, Georgia, serif;
     font-weight:400;
     color:rgb(159, 244, 216);
-    transform:
+    transform:rotate(-3deg);
 }
 
 .subscribe a:active {
