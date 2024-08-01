@@ -244,7 +244,7 @@ nav a:hover:nth-child(2) {
 nav a:hover {
     font-family:Roboto, Helvetica, sans-serif;
     font-size:1.8rem;
-    color:blue;
+    color:grey;
     text-decoration-line:underline;
     transform:rotate(-2deg);
     
@@ -254,7 +254,7 @@ nav a:active {
     font-family:Roboto, Helvetica, sans-serif;
     font-size:1.8rem;
     color:rgb(255, 255, 255);
-    background-color:blue;
+    background-color:rgb(159, 244, 216);
     transform:rotate(-2deg);
 }
 
