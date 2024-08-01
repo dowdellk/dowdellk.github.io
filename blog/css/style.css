@@ -404,7 +404,7 @@ aside img {
 
 .imgaside {
     
-    width:100%;
+    width:fit-content;
     height:300px;
     margin-bottom:.4rem;
     padding-bottom:.4rem;
