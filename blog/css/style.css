@@ -364,7 +364,6 @@ aside {
     object-position:left;
     align-self:left;
     display:block;
-    width:100%;
     /* display:grid;
     column-count:1;
     grid-template-rows:auto auto auto;
