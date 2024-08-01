@@ -404,7 +404,7 @@ aside {
     display:inline-block;
     width:fit-content;
     height:300px;
-    margin-bottom:0;
+    margin-bottom:-.5rem;
     margin-left:0;
     padding-bottom:0;
     padding-left:0;
