@@ -87,6 +87,7 @@ body {
     margin-left:0;
     margin-right:0;
     min-width:56rem;
+    max-width:65rem;
 }
 
 .container {
