@@ -159,7 +159,7 @@ body {
     font-weight:500;
     border-top-left-radius:.5rem;
     border-bottom-right-radius:.5rem;
-    box-shadow:.2rem .2rem rgb(20, 115, 98, 0.5);
+    box-shadow:.2rem .2rem rgba(142, 218, 193, 0.5);
     padding:.9rem;
 
 }
