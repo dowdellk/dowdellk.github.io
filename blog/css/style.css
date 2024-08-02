@@ -114,7 +114,6 @@ body {
     column-count:1;
     grid-template-columns:auto;
     position:relative;
-    float:center;
 }
 
 .container img {
