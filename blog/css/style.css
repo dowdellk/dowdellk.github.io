@@ -96,7 +96,7 @@ body {
     grid-template-columns:68rem 27rem;
     grid-column-gap:.4rem;
     grid-template-rows:auto auto auto;
-    margin-left:2.2rem;
+    margin-left:2rem;
     margin-right:2rem;
     align-items:left;
     align-content:left;
@@ -182,7 +182,7 @@ h1 {
     letter-spacing:.3rem;
     padding-bottom:2rem;
     margin-bottom:3rem;
-    margin-left:2.2rem;
+    margin-left:2rem;
     margin-right:2.2rem;
 }
 
