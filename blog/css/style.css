@@ -395,7 +395,7 @@ aside {
 .asidetext {
     font-size:12px;
     margin-bottom:1.5rem;
-    width:250px;
+    width:260px;
 
 }
 
@@ -412,7 +412,7 @@ aside {
 .imgaside {
     
     display:inline-block;
-    width:250px;
+    width:260px;
     height:300px;
     margin-bottom:-.5rem;
     margin-left:0;
