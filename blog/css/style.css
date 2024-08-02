@@ -108,6 +108,7 @@ body {
 }
 
 .h1wrapper {
+    align-items:center;
     text-align:center;
     display:inline-block;
     position:relative;
