@@ -110,8 +110,8 @@ body {
 .h1wrapper {
     align-items:center;
     text-align:center;
-    display:grid;
-    position:relative;
+    display:flex;
+    position:fixed;
     float:center;
 }
 
@@ -450,7 +450,7 @@ hr {
 footer {
     margin-left:2rem;
     margin-right:1.3rem;
-    display:inline-block;
+    display:flex;
     position:relative;
 }
 
