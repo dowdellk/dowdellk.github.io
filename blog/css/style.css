@@ -449,6 +449,8 @@ hr {
 footer {
     margin-left:2rem;
     margin-right:1.3rem;
+    display:inline-block;
+    position:relative;
 }
 
 
@@ -472,7 +474,7 @@ footer {
     font-family:Roboto, Helvetica, sans-serif;
 }
 
-.footwrapper {
+/* .footwrapper {
     display:inline-block;
     position:relative;
-}
+} */
