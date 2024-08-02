@@ -104,7 +104,12 @@ body {
     /* grid-auto-rows:auto;
     grid-auto-columns:auto;
     position:relative;*/
-  
+
+}
+
+.h1wrapper {
+    display:inline-block;
+    position:relative;
 }
 
 .container img {
