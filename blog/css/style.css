@@ -342,7 +342,7 @@ figcaption {
     margin-left:0;
     object-fit:scale-down;
     display:inline-block;
-    max-width:357px;
+    max-width:358px;
     max-height:auto;
 }
 
@@ -395,7 +395,7 @@ aside {
 .imgrow {
     
     max-height:430px;
-    max-width:357px;
+    max-width:358px;
     object-fit:scale-down;
     display:inline-block;
     
