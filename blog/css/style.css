@@ -184,6 +184,8 @@ h1 {
     margin-bottom:3rem;
     margin-left:2.2rem;
     margin-right:2.2rem;
+    display:grid;
+    position:relative;
 }
 
 h2 {
