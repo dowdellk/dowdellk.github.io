@@ -456,9 +456,10 @@ footer {
 }
 
 .footerattrib {
-    float:right;
     text-justify:right;
     text-align:right;
+    text-align:center;
+    
 }
 
 .footerattributeserif {
@@ -468,4 +469,9 @@ footer {
 
 .footerattributenormal {
     font-family:Roboto, Helvetica, sans-serif;
+}
+
+.footwrapper {
+    display:inline-block;
+    position:relative;
 }
