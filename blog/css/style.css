@@ -110,7 +110,9 @@ body {
 .h1wrapper {
     align-items:center;
     text-align:center;
-    display:flex;
+    display:grid;
+    column-count:1;
+    grid-template-columns:auto;
     position:fixed;
     float:center;
 }
