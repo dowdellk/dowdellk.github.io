@@ -113,7 +113,7 @@ body {
     display:grid;
     column-count:1;
     grid-template-columns:auto;
-    position:fixed;
+    position:relative;
     float:center;
 }
 
