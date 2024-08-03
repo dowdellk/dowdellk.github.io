@@ -324,6 +324,7 @@ nav a:active {
     grid-row:2;
     display:inline-block;
     object-fit:scale-down;
+    margin-right:-.5rem;
 
 }
     /* white-space:nowrap; */
