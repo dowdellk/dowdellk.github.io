@@ -155,6 +155,10 @@ body {
 }
     */
 
+header {
+    position:relative;
+    display:flex;
+}
 .highlight {
     
     font-family:Ultra, Georgia, serif;
