@@ -158,8 +158,9 @@ body {
 header {
     position:relative;
     display:flex;
-    float:center;
+    justify-content:center;
 }
+
 .highlight {
     
     font-family:Ultra, Georgia, serif;
