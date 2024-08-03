@@ -93,7 +93,7 @@ body {
     box-sizing:border-box;
     display:grid;
     column-count:2;
-    grid-template-columns:69rem 27rem;
+    grid-template-columns:70rem 26rem;
     grid-column-gap:.4rem;
     grid-template-rows:auto auto auto;
     margin-left:2rem;
