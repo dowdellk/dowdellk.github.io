@@ -356,8 +356,8 @@ aside {
     
     max-width:300px;
     border-left:.1rem solid black;
-    padding-left:1.8rem;
-    padding-right:2.8rem;
+    /* padding-left:1.7rem;
+    padding-right:2.8rem; */
     padding-top:0;
     margin-top:0;
     margin-left:1.8rem;
@@ -419,7 +419,7 @@ aside {
     margin-left:0;
     padding-bottom:0;
     padding-left:0;
-    transform:translate(-17%);
+    transform:translate(-18%);
 }
 
 
