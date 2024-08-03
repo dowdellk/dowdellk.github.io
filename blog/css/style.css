@@ -202,7 +202,7 @@ h3 {
     text-align:left;
     padding-top:0;
     padding-bottom:0;
-    margin-left:.1rem;
+    margin-left:.2rem;
 }
 
 .topnav {
@@ -345,7 +345,7 @@ figcaption {
 .figurerow {
     background-color:rgb(159, 244, 216);
     caption-side:bottom;
-    margin-right:.4rem;
+    margin-right:0;
     margin-left:0;
     object-fit:scale-down;
     display:inline-block;
@@ -400,7 +400,7 @@ aside {
     font-size:12px;
     margin-bottom:1.5rem;
     /* width:258px; */
-    margin-left:.1rem;
+    margin-left:.2rem;
 
 }
 
