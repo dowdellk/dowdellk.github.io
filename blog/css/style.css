@@ -331,7 +331,6 @@ nav a:active {
     grid-row:2;
     display:inline-block;
     object-fit:scale-down;
-    max-width:fit-content;
 
 }
     /* white-space:nowrap; */
