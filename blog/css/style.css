@@ -466,20 +466,19 @@ footer {
     margin-left:2rem;
     margin-right:1.3rem;
     position:relative;
-    display:inline;
-
 }
 
 
 .footercopy {
     float:left;
+    position:relative;
 }
 
 .footerattrib {
     float:right;
     text-justify:right;
     text-align:right;
-
+    position:relative;
 }
 
 .footerattributeserif {
