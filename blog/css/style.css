@@ -157,8 +157,8 @@ body {
 
 header {
     position:relative;
-    display:inline;
-    float:center;
+    display:flex;
+    justify-content:center;
 }
 
 .highlight {
