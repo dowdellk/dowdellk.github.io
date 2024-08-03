@@ -156,8 +156,8 @@ body {
     */
 
 header {
-    position:fixed;
-    display:inline;
+    position:relative;
+    display:grid;
     float:center;
 }
 
