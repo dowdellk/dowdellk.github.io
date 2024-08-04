@@ -118,6 +118,7 @@ body {
     align-items:center;
     text-align:center;
     grid-template-rows:auto;
+    float:center;
     
 }
 
