@@ -114,8 +114,8 @@ body {
 .h1wrapper {
     box-sizing:border-box;
     display:grid;
-    column-count:3;
-    grid-template-columns:1fr 2fr 1fr;
+    column-count:1;
+    grid-template-columns:auto;
     align-items:center;
     text-align:center;
     grid-template-rows:auto;
@@ -186,8 +186,6 @@ body {
 
 h1 {
     display:grid;
-    grid-column:2;
-    grid-row:1;
     font-family:Roboto, Helvetica, sans-serif;
     font-size:3rem;
     font-weight:800;
