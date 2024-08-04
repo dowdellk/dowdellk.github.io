@@ -107,13 +107,18 @@ body {
 
 }
 
-.h1wrapper {
+header {
     box-sizing:border-box;
     display:grid;
-    column-count:1;
+    column-count:3;
+    grid-template-columns:1fr 2fr 1fr
+}
+
+.h1wrapper {
+   
     align-items:center;
     text-align:center;
-    position:sticky;
+    position:relative;
     
 }
 
