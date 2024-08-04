@@ -474,15 +474,16 @@ hr {
 footer {
     margin-left:2rem;
     margin-right:1.4rem;
-}
-
-.footergrid {
-    
     column-width:all;
     grid-row:1;
     display:inline-block;
     object-fit:scale-down;
 }
+
+/* .footergrid {
+    
+    
+} */
 
 .footercopy {
     float:left;
