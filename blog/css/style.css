@@ -157,8 +157,6 @@ body {
 
 header {
     position:relative;
-    display:grid;
-    float:center;
 }
 
 .highlight {
@@ -463,7 +461,7 @@ hr {
 
 footer {
     margin-left:2rem;
-    margin-right:1.3rem;
+    margin-right:1.4rem;
     position:relative;
 }
 
