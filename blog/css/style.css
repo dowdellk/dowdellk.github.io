@@ -111,15 +111,13 @@ body {
     
 } */
 
-/* .h1wrapper {
-    /* box-sizing:border-box;
-    position:relative;
-    align-items:center;
-    text-align:center;
-    grid-template-rows:auto;
-    margin-left:100px;
+.h1wrapper {
+    column-width:all;
+    grid-row:1;
+    display:inline-block;
+    object-fit:scale-down;
     
-} */
+}
 
 .container img {
     object-fit:contain;
@@ -229,6 +227,10 @@ h3 {
     padding-left:2rem;
     white-space:nowrap;
     width:110%;
+    column-width:all;
+    grid-row:2;
+    display:inline-block;
+    object-fit:scale-down;
 }
 
 nav a {
