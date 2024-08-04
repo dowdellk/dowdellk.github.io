@@ -491,6 +491,7 @@ footer {
 
 .footerattrib {
     float:right;
+    display:fixed;
     text-justify:right;
     text-align:right;
 }
