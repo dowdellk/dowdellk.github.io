@@ -109,6 +109,8 @@ body {
 
 .h1wrapper {
     box-sizing:border-box;
+    display:grid;
+    column-count:1;
     align-items:center;
     text-align:center;
     position:sticky;
