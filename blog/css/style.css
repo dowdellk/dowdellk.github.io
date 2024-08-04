@@ -117,10 +117,9 @@ body {
     display:inline-block;
     object-fit:scale-down;
     padding-bottom:2rem;
-    margin-bottom:2rem;
+    /* margin-bottom:2rem;
     margin-left:9rem;
-    margin-right:2.2rem;
-    padding-bottom:1.5rem;
+    margin-right:2.2rem; */
     padding-top:.6rem;
     padding-left:314px;
     
