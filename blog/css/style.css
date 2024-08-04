@@ -477,6 +477,13 @@ footer {
     position:relative;
 }
 
+.footergrid {
+    display:grid;
+    column-width:all;
+    grid-row:1;
+    display:inline-block;
+    object-fit:scale-down;
+}
 
 .footercopy {
     float:left;
