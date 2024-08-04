@@ -125,7 +125,7 @@ body {
     
 }
 
-.container img {
+/* .container img {
     object-fit:contain;
     align-items:left;
     align-content:left;
