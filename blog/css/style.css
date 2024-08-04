@@ -113,12 +113,10 @@ body {
 
 .h1wrapper {
     box-sizing:border-box;
-    display:grid;
     position:relative;
     align-items:center;
     text-align:center;
     grid-template-rows:auto;
-    float:center;
     
 }
 
