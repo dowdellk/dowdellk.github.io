@@ -486,12 +486,12 @@ footer {
 } */
 
 .footercopy {
-    float:left;
+    text-justify:left;
+    text-align:left;
 }
 
 .footerattrib {
-    float:right;
-    display:fixed;
+    
     text-justify:right;
     text-align:right;
 }
