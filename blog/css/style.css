@@ -489,9 +489,9 @@ footer {
 }
 
 .footerattrib {
+    float:right;
     text-justify:right;
     text-align:right;
-    position:relative;
 }
 
 .footerattributeserif {
