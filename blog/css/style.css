@@ -185,7 +185,6 @@ body {
 }
 
 h1 {
-    display:grid;
     font-family:Roboto, Helvetica, sans-serif;
     font-size:3rem;
     font-weight:800;
