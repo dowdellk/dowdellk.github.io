@@ -108,6 +108,7 @@ body {
 }
 
 .h1wrapper {
+    box-sizing:border-box;
     align-items:center;
     text-align:center;
     position:sticky;
