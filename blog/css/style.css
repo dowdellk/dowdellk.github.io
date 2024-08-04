@@ -117,15 +117,15 @@ body {
     display:inline-block;
     object-fit:scale-down;
     padding-bottom:2rem;
-    /* margin-bottom:2rem;
-    margin-left:9rem;
-    margin-right:2.2rem; */
+    margin-bottom:2rem;
+    margin-left:2.2rem;
+    margin-right:2.2rem;
     padding-top:.6rem;
-    padding-left:314px;
+    padding-left:320px;
     
 }
 
-/* .container img {
+.container img {
     object-fit:contain;
     align-items:left;
     align-content:left;
