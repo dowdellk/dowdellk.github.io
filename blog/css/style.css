@@ -486,11 +486,9 @@ footer {
 
 .footercopy {
     float:left;
-    position:relative;
 }
 
 .footerattrib {
-    float:right;
     text-justify:right;
     text-align:right;
     position:relative;
