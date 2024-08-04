@@ -478,7 +478,7 @@ footer {
 }
 
 .footergrid {
-    display:grid;
+    
     column-width:all;
     grid-row:1;
     display:inline-block;
