@@ -114,8 +114,7 @@ body {
 .h1wrapper {
     box-sizing:border-box;
     display:grid;
-    column-count:1;
-    grid-template-columns:auto;
+    position:relative;
     align-items:center;
     text-align:center;
     grid-template-rows:auto;
