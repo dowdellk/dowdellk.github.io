@@ -186,7 +186,7 @@ h1 {
     font-family:Roboto, Helvetica, sans-serif;
     font-size:3rem;
     font-weight:800;
-    /* text-align:center; */
+    text-align:center;
     text-shadow:.2rem .2rem rgba(142, 218, 193, 0.5);
     padding-bottom:2rem;
     padding-top:.6rem;
