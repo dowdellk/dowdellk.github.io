@@ -116,6 +116,12 @@ body {
     grid-row:1;
     display:inline-block;
     object-fit:scale-down;
+    padding-bottom:2rem;
+    margin-bottom:3rem;
+    margin-left:2rem;
+    margin-right:2.2rem;
+    padding-bottom:2rem;
+    padding-top:.6rem;
     
 }
 
@@ -186,14 +192,9 @@ h1 {
     font-weight:800;
     text-align:center;
     text-shadow:.2rem .2rem rgba(142, 218, 193, 0.5);
-    padding-bottom:2rem;
-    padding-top:.6rem;
     transform:rotate(-6deg);
     letter-spacing:.3rem;
-    padding-bottom:2rem;
-    margin-bottom:3rem;
-    margin-left:2rem;
-    margin-right:2.2rem;
+    
 }
 
 h2 {
