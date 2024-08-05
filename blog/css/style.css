@@ -139,7 +139,7 @@ body {
     display:inline-block;
     flex-wrap:nowrap;
     object-fit:scale-down;
-    padding-bottom:2rem;
+    padding-bottom:0;
     margin-bottom:2rem;
     margin-left:0;
     margin-right:0;
