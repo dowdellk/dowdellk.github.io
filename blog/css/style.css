@@ -137,8 +137,8 @@ body {
 .h1wrapper {
     
     display:inline-block;
-    flex-wrap:nowrap;
-    object-fit:scale-down;
+    /* flex-wrap:nowrap; */
+    /* object-fit:scale-down; */
     padding-bottom:0;
     margin-bottom:2rem;
     margin-left:0;
@@ -146,13 +146,13 @@ body {
     padding-top:.6rem;
     padding-left:20%;
     padding-right:20%;
-    object-position:center;
+    /* object-position:center;
     align-items:center;
     align-content:center;
     justify-items:center;
     justify-content:center;
     text-align:center;
-    align-self:center;
+    align-self:center; */
     width:1503px;
     
 }
