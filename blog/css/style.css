@@ -141,18 +141,18 @@ body {
     object-fit:scale-down;
     padding-bottom:2rem;
     margin-bottom:2rem;
-    margin-left:2.2rem;
-    margin-right:2.2rem;
+    margin-left:1rem;
+    margin-right:1rem;
     padding-top:.6rem;
     padding-left:25%;
     padding-right:25%;
-    object-position:center;
+    /* object-position:center;
     align-items:center;
     align-content:center;
     justify-items:center;
     justify-content:center;
     text-align:center;
-    align-self:center;
+    align-self:center; */
     
 }
 
