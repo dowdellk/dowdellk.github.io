@@ -145,19 +145,18 @@ body {
     margin-right:2.2rem;
     padding-top:.6rem;
     padding-left:2rem;
-    object-position:center;
+    /* object-position:center;
     align-items:center;
     align-content:center;
     justify-items:center;
     justify-content:center;
     text-align:center;
-    align-self:center;
+    align-self:center; */
     
 }
 
 h1 {
     display:grid;
-    grid-column:1;
     font-family:Roboto, Helvetica, sans-serif;
     font-size:3rem;
     font-weight:800;
