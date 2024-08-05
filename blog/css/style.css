@@ -135,9 +135,10 @@ body {
 }
 
 .h1wrapper {
-    grid-row:1;
+    
     display:grid;
-    column-count:1;
+    column-count:3;
+    grid-template-columns:auto auto auto;
     object-fit:scale-down;
     padding-bottom:2rem;
     margin-bottom:2rem;
@@ -156,7 +157,9 @@ body {
 }
 
 h1 {
-    
+    display:grid;
+    grid-row:1;
+    grid-column:2;
     font-family:Roboto, Helvetica, sans-serif;
     font-size:3rem;
     font-weight:800;
