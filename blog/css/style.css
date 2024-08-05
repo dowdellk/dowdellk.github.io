@@ -113,7 +113,6 @@ body {
 
 .h1wrapper {
     column-width:all;
-    grid-template-columns:auto auto auto;
     grid-row:1;
     display:inline-block;
     object-fit:scale-down;
