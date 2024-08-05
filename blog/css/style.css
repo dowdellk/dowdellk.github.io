@@ -461,7 +461,7 @@ hr {
 .footerstyle {
     margin-left:2rem;
     /* margin-right:1.4rem; */
-    grid-template-columns:50rem 46rem;
+    grid-template-columns:48rem 48rem;
     column-count:2;
     grid-row:1;
     grid-template-rows:auto;
@@ -485,7 +485,7 @@ hr {
     text-justify:right;
     text-align:right;
     grid-column:2;
-    padding-right:4rem;
+    padding-right:6rem;
 }
 
 .footerattributeserif {
