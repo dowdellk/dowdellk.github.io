@@ -138,7 +138,7 @@ body {
     
     display:grid;
     column-count:3;
-    grid-template-columns:auto auto auto;
+    grid-template-columns:25rem 46rem 25rem;
     object-fit:scale-down;
     padding-bottom:2rem;
     margin-bottom:2rem;
