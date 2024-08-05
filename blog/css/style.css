@@ -114,7 +114,7 @@ body {
 .h1wrapper {
     column-width:all;
     grid-row:1;
-    display:inline;
+    display:grid;
     object-fit:scale-down;
     padding-bottom:2rem;
     margin-bottom:2rem;
@@ -482,7 +482,7 @@ hr {
     grid-template-columns:70rem 26rem;
     column-count:2;
     grid-row:1;
-    display:inline;
+    display:grid;
     object-fit:scale-down;
 }
 
