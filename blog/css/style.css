@@ -144,7 +144,8 @@ body {
     margin-left:2.2rem;
     margin-right:2.2rem;
     padding-top:.6rem;
-    padding-left:2rem;
+    padding-left:25%;
+    padding-right:25%;
     object-position:center;
     align-items:center;
     align-content:center;
