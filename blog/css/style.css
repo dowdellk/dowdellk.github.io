@@ -482,7 +482,6 @@ hr {
     grid-template-columns:70rem 26rem;
     column-count:2;
     grid-row:1;
-    display:inline-block;
     object-fit:scale-down;
 }
 
@@ -491,13 +490,14 @@ hr {
 } */
 
 .footercopy {
+    float:left;
     text-justify:left;
     text-align:left;
     grid-column:1
 }
 
 .footerattrib {
-    /* float:right; */
+    float:right;
     text-justify:right;
     text-align:right;
     grid-column:2;
