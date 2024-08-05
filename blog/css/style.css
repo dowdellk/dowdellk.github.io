@@ -117,12 +117,12 @@ body {
     grid-row:1;
     display:inline-block;
     object-fit:scale-down;
-    /* padding-bottom:2rem;
+    padding-bottom:2rem;
     margin-bottom:2rem;
     margin-left:2.2rem;
     margin-right:2.2rem;
     padding-top:.6rem;
-    padding-left:320px; */
+    padding-left:320px;
     
 }
 
@@ -194,9 +194,7 @@ h1 {
     text-align:center;
     text-shadow:.2rem .2rem rgba(142, 218, 193, 0.5);
     transform:rotate(-6deg);
-    letter-spacing:.3rem;
-    grid-column:2;
-    
+    letter-spacing:.3rem;  
 }
 
 h2 {
