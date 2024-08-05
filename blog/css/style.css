@@ -491,7 +491,7 @@ hr {
 }
 
 .footerattrib {
-    float:right;
+    /* float:right; */
     text-justify:right;
     text-align:right;
 }
