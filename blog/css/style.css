@@ -471,7 +471,7 @@ hr {
 
 .footerstyle {
     margin-left:2rem;
-    margin-right:1.4rem;
+    /* margin-right:1.4rem; */
     grid-template-columns:70rem 26rem;
     column-count:2;
     grid-row:1;
