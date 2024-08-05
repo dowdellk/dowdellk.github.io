@@ -134,8 +134,8 @@ body {
 
 }
 
-header {
-    
+.h1wrapper {
+    width:100%;
     display:inline-block;
     flex-wrap:nowrap;
     object-fit:scale-down;
