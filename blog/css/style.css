@@ -187,10 +187,6 @@ body {
 
 }
 
-.h1style {
-    grid-column:2;
-}
-
 h1 {
     font-family:Roboto, Helvetica, sans-serif;
     font-size:3rem;
@@ -199,6 +195,7 @@ h1 {
     text-shadow:.2rem .2rem rgba(142, 218, 193, 0.5);
     transform:rotate(-6deg);
     letter-spacing:.3rem;
+    grid-column:2;
     
 }
 
