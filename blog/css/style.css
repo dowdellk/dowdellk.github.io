@@ -135,9 +135,9 @@ body {
 }
 
 .h1wrapper {
-    column-width:100%;
     grid-row:1;
     display:grid;
+    column-count:1;
     object-fit:scale-down;
     padding-bottom:2rem;
     margin-bottom:2rem;
@@ -145,13 +145,13 @@ body {
     margin-right:2.2rem;
     padding-top:.6rem;
     padding-left:2rem;
-    /* object-position:center;
+    object-position:center;
     align-items:center;
     align-content:center;
     justify-items:center;
     justify-content:center;
     text-align:center;
-    align-self:center; */
+    align-self:center;
     
 }
 
