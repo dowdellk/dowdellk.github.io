@@ -482,6 +482,7 @@ hr {
     grid-template-columns:70rem 26rem;
     column-count:2;
     grid-row:1;
+    grid-template-rows:auto;
     display:grid;
     object-fit:scale-down;
 }
