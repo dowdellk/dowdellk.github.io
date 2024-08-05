@@ -121,7 +121,9 @@ body {
     margin-left:2.2rem;
     margin-right:2.2rem;
     padding-top:.6rem;
-    padding-left:500px;
+    padding-left:2rem;
+    align-items:center;
+    object-position:center;
     
 }
 
