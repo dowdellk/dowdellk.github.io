@@ -328,6 +328,8 @@ nav a:active {
     grid-row:2;
     display:inline-block;
     object-fit:scale-down;
+    padding-right:0;
+    margin-right:0;
 
 }
     /* white-space:nowrap; */
