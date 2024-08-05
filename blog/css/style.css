@@ -122,8 +122,13 @@ body {
     margin-right:2.2rem;
     padding-top:.6rem;
     padding-left:2rem;
-    align-items:center;
     object-position:center;
+    align-items:center;
+    align-content:center;
+    justify-items:center;
+    justify-content:center;
+    text-align:center;
+    align-self:center;
     
 }
 
