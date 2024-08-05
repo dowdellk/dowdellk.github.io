@@ -114,7 +114,7 @@ body {
 .h1wrapper {
     column-width:all;
     grid-row:1;
-    display:inline-block;
+    float:center;
     object-fit:scale-down;
     padding-bottom:2rem;
     margin-bottom:2rem;
