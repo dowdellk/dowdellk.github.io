@@ -157,7 +157,7 @@ a:link, a:visited {
     color:#33658A
 }
 
-.long-list:hover {
+.long-list a:hover {
 
     text-transform:uppercase;
 }
