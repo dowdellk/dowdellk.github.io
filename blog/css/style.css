@@ -386,6 +386,10 @@ min-height:auto;
 
 }
 
+article {
+    margin-right:0;
+}
+
 aside {
     
     max-width:300px;
