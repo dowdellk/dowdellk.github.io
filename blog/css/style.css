@@ -372,6 +372,20 @@ figcaption {
     
 }
 
+.figurerow:nthchild(3) {
+background-color:rgb(159, 244, 216);
+caption-side:bottom;
+margin-right:0;
+margin-left:0;
+object-fit:scale-down;
+display:inline-block;
+max-width:360px;
+max-height:auto;
+min-width:300px;
+min-height:auto;
+
+}
+
 aside {
     
     max-width:300px;
