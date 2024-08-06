@@ -80,8 +80,8 @@ h2 {
 h3 {
     text-transform: uppercase;
     font-size:2rem;
-    margin: 0;
-    letter-spacing: .25rem;
+    margin:0;
+    letter-spacing:.25rem;
     color:black;
     text-shadow:none;
     font-family:'Alfa Slab One', Garamond, serif;
@@ -103,10 +103,7 @@ h4 {
 }
 
 h4 span {
-    padding-bottom:0;
-    padding-top:0;
-    padding-left:.5rem;
-    padding-right:.5rem;
+    padding:0 .5rem 0 .5rem;
 }
 
 h5 {
@@ -119,10 +116,7 @@ h5 {
     font-family:'Lato', Arial, sans-serif;
     text-align:center;
     font-weight:normal;
-    padding-left:.5rem;
-    padding-right:.5rem;
-    padding-top:.5rem;
-    padding-bottom:.5rem;
+    padding:.5rem;
 }
 
 /* Section & Paragraph */
@@ -133,14 +127,8 @@ section {
 }
 
 p {
-    margin-top:1rem;
-    margin-bottom:1rem;
-    margin-left:auto;
-    margin-right:auto;
-    padding-top:0;
-    padding-bottom:0;
-    padding-left:1rem;
-    padding-right:1rem;
+    margin:1rem auto 1rem auto;
+    padding:0 1rem 0 1rem;
     width:90%;
     text-align:left;
 }
@@ -156,18 +144,12 @@ figcaption {
 
 img {
     width:100%;
-    margin-top:0;
-    margin-bottom:0;
-    margin-left:auto;
-    margin-right:auto;
+    margin:0 auto 0 auto;
     max-width:50rem;
 }
 
 footer {
-    padding-top:1rem;
-    padding-bottom:1rem;
-    padding-left:1rem;
-    padding-right:1rem;
+    padding:1rem;
     border-top-width:2rem;
     border-top-color:#333;
     border-top-style:solid;
