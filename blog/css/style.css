@@ -317,7 +317,7 @@ aside {
     max-width:316px;
     border-left:.1rem solid black;
     padding:0 0 0 2rem;
-    margin-top:0 0 0 1.8rem;
+    margin:0 0 0 1.8rem;
     grid-column:2;
     grid-row:1 / all;
     align-items:left;
