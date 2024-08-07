@@ -180,7 +180,7 @@ h1 {
     font-size:3rem;
     font-weight:800;
     text-align:center;
-    text-shadow:.2rem .2rem rgba(142, 218, 193, 0.5);
+    text-shadow:.2rem .2rem rgba(106, 105, 105, 0.5);
     transform:rotate(-6deg);
     letter-spacing:.3rem;  
 }
