@@ -61,7 +61,6 @@ p {
     line-height:150%;
 }
 
-
 @font-face {
     font-family:Rozha One;
     src: url(../fonts/serif/rozhaone-regular.ttf) format('opentype');
@@ -101,16 +100,7 @@ body {
     align-items:left;
     align-content:left;
     text-align:left;
-    /* grid-auto-rows:auto;
-    grid-auto-columns:auto;
-    position:relative;*/
-
 }
-
-/* header {
-    
-} */
-
 
 .container img {
     object-fit:contain;
@@ -130,7 +120,6 @@ body {
     justify-content:left;
     text-align:left;
     align-self:left;
-
 }
 
 .h1wrapper {
@@ -140,11 +129,8 @@ body {
     margin-bottom:2rem;
     margin-left:0;
     margin-right:0;
-    width:1519px;
-    
+    width:1519px;   
 }
-
-
 
 .highlight {
     font-family:Ultra, Georgia, serif;
@@ -158,7 +144,6 @@ body {
     border-bottom-right-radius:.5rem;
     box-shadow:.2rem .2rem rgba(67, 168, 136, 0.5);
     padding:.9rem;
-
 }
 
 h1 {
@@ -246,7 +231,6 @@ nav a:hover:nth-child(2) {
     text-shadow:.3rem solid black;
 }
 
-
 nav a:hover {
     font-family:Roboto, Helvetica, sans-serif;
     font-size:1.8rem;
@@ -275,7 +259,6 @@ nav a:active {
     padding:1rem;
     width:15rem;
     height:4rem;
-    
 }
 
 .subscribe a {
@@ -288,7 +271,6 @@ nav a:active {
     font-family:Ultra, Georgia, serif;
     font-weight:400;
     color:rgb(159, 244, 216);
-    
 }
 
 .subscribe a:active {
@@ -317,7 +299,6 @@ nav a:active {
     object-fit:scale-down;
     padding-right:0;
     margin-right:0;
-
 }
 
 figcaption {
@@ -338,7 +319,6 @@ figcaption {
     max-height:auto;
     min-width:300px;
     min-height:auto;
-    
 }
 
 .figurerow:nth-child(3) {
@@ -383,7 +363,6 @@ aside {
     margin-bottom:1.5rem;
     width:252px;
     margin-left:.2rem;
-
 }
 
 .imgrow {
@@ -412,7 +391,6 @@ hr {
     width:250px;
     padding-left:0;
     margin-left:1px;
-
 }
 
 .expand {
@@ -448,7 +426,6 @@ hr {
 
 .footerattributeserif {
     font-family:'Times New Roman', Georgia, serif;
-    
 }
 
 .footerattributenormal {
