@@ -86,7 +86,7 @@ p {
 body {
     margin:0;
     min-width:56.25rem;
-    padding-left:2rem;
+    padding-left:1rem;
 }
 
 .container {
@@ -96,7 +96,7 @@ body {
     grid-template-columns:70rem 26rem;
     grid-column-gap:.4rem;
     grid-template-rows:auto auto auto;
-    margin-left:3rem;
+    margin-left:1rem;
     margin-right:2rem;
     align-items:left;
     align-content:left;
