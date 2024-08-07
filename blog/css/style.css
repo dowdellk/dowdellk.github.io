@@ -271,13 +271,6 @@ article {
     margin-right:0;
 }
 
-figcaption {
-    font-family:Roboto, Helvetica, sans-serif;
-    text-align:left;
-    font-size:1rem;
-    margin-left:.1rem;
-}
-
 .figurerow {
     background-color:rgb(159, 244, 216);
     caption-side:bottom;
@@ -302,6 +295,13 @@ figcaption {
     max-height:auto;
     min-width:300px;
     min-height:auto;
+}
+
+figcaption {
+    font-family:Roboto, Helvetica, sans-serif;
+    text-align:left;
+    font-size:1rem;
+    margin-left:.1rem;
 }
 
 .imgrow {
