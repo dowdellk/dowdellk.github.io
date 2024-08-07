@@ -245,7 +245,7 @@ nav a:nth-child(2) {
     font-family:Roboto, Helvetica, sans-serif;
     font-size:1.8rem;
     color:rgb(103, 97, 97);
-    text-shadow:.3rem .3rem rgba(67, 168, 136, 0.5);
+    text-shadow:.2rem rgba(67, 168, 136, 0.5);
     text-transform:uppercase;
     font-weight:bolder;
     text-shadow:.3rem solid black;
