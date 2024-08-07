@@ -84,8 +84,7 @@ p {
 }
 
 body {
-    margin-left:2.2;
-    margin-right:2.2; 
+    margin:0;
     min-width:56.25rem;
 }
 
