@@ -235,11 +235,6 @@ p {
     line-height:150%;
 }
 
-article {
-    margin-right:0;
-    padding-right:0;
-}
-
 .article-image {
     float:left;
     margin:0 .5rem .3rem 0;
@@ -407,7 +402,7 @@ hr {
     text-justify:right;
     text-align:right;
     grid-column:2;
-    padding-right:95px;
+    padding-right:45px;
 }
 
 .footerattributeserif {
