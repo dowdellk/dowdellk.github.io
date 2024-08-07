@@ -113,7 +113,7 @@ body {
 
 
 
-.container img {
+/* .container img {
     object-fit:contain;
     align-items:left;
     align-content:left;
@@ -130,22 +130,19 @@ body {
     justify-items:left;
     justify-content:left;
     text-align:left;
-    align-self:left;
+    align-self:left; 
 
-}
+} */
 
 .h1wrapper {
     
     display:inline-block;
     /* flex-wrap:nowrap; */
     /* object-fit:scale-down; */
-    padding-bottom:0;
+    padding:.6rem 5% 2rem 5%;
     margin-bottom:2rem;
     margin-left:0;
     margin-right:0;
-    padding-top:.6rem;
-    padding-left:5%;
-    padding-right:5%;
     /* object-position:center;
     align-items:center;
     align-content:center;
