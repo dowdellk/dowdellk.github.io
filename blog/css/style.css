@@ -165,11 +165,12 @@ body {
     color:rgb(159, 244, 216);
     background-color:black;
     text-transform:uppercase;
+    text-shadow:.2rem rgba(67, 168, 136, 0.5);
     letter-spacing:.4rem;
     font-weight:500;
     border-top-left-radius:.5rem;
     border-bottom-right-radius:.5rem;
-    box-shadow:.2rem .2rem rgba(106, 105, 105, 0.5);
+    box-shadow:.2rem .2rem  rgba(106, 105, 105, 0.5);
     padding:.9rem;
 
 }
