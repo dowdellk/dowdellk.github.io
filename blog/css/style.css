@@ -86,7 +86,7 @@ p {
 body {
     margin:0;
     min-width:56.25rem;
-    padding-left:1rem;
+    padding:0;
 }
 
 .container {
