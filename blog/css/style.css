@@ -238,7 +238,7 @@ nav a {
     color:black;
     text-decoration:none;
     font-weight:bolder;
-    text-shadow:.3rem .3rem rgba(106, 105, 105, 0.5);
+    text-shadow:.2rem rgba(106, 105, 105, 0.5);
 }
 
 nav a:nth-child(2) {
@@ -287,7 +287,7 @@ nav a:active {
     text-decoration:none;
     text-align:center;
     background-color:black;
-    box-shadow: .2rem .2rem rgba(82, 81, 81, 0.5);
+    box-shadow: .2rem .2rem rgba(64, 63, 63, 0.5);
     border-radius:.8rem;
     padding:1rem;
     width:15rem;
