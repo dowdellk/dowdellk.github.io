@@ -56,8 +56,6 @@ html {
     font-size:16px;
 }
 
-
-
 @font-face {
     font-family:Rozha One;
     src: url(../fonts/serif/rozhaone-regular.ttf) format('opentype');
@@ -353,8 +351,6 @@ aside {
     transform:translate(-20%);
 }
 
-
-
 hr {
     border-color:black;
     color:black;
@@ -370,7 +366,6 @@ hr {
     text-transform:none;
     text-decoration-line:none;
 }
-
 
 .subscribe {
     padding-left:2rem;
