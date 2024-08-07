@@ -316,8 +316,8 @@ figcaption {
 aside {
     max-width:316px;
     border-left:.1rem solid black;
-    padding:0 0 auto 2rem;
-    margin:0 0 auto 1.8rem;
+    padding:0 0 0 2rem;
+    margin:0 0 0 1.8rem;
     grid-column:2;
     grid-row:1 / all;
     align-items:left;
