@@ -113,7 +113,7 @@ body {
 
 
 
-/* .container img {
+.container img {
     object-fit:contain;
     align-items:left;
     align-content:left;
@@ -130,19 +130,22 @@ body {
     justify-items:left;
     justify-content:left;
     text-align:left;
-    align-self:left; 
+    align-self:left;
 
-} */
+}
 
 .h1wrapper {
     
     display:inline-block;
     /* flex-wrap:nowrap; */
     /* object-fit:scale-down; */
-    padding:.6rem 5% 2rem 5%;
+    padding-bottom:0;
     margin-bottom:2rem;
     margin-left:0;
     margin-right:0;
+    padding-top:.6rem;
+    padding-left:5%;
+    padding-right:5%;
     /* object-position:center;
     align-items:center;
     align-content:center;
@@ -214,10 +217,13 @@ h3 {
 .topnav {
     border-top:.1rem solid black;
     border-bottom:.1rem solid black;
-    padding: 1.8rem 0 1.3rem 2rem;
+    padding-top:1.8rem;
+    padding-bottom:1.3rem;
     margin:0;
     text-align:left;
     word-spacing:7rem;
+    padding-right:0;
+    padding-left:2rem;
     white-space:nowrap;
     width:110%;
     column-width:all;
@@ -310,7 +316,10 @@ nav a:active {
 
 .article-image {
     float:left;
-    margin:0 .5rem .3rem 0;
+    margin-left:0;
+    margin-top:0;
+    margin-bottom:.3rem;
+    margin-right:.5rem;
     padding-bottom:0;
     padding-right:.5rem;
 }
