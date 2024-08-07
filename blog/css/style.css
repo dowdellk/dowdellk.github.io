@@ -169,7 +169,7 @@ body {
     font-weight:500;
     border-top-left-radius:.5rem;
     border-bottom-right-radius:.5rem;
-    box-shadow:.2rem .2rem rgba(142, 218, 193, 0.5);
+    box-shadow:.2rem .2rem rgba(106, 105, 105, 0.5);
     padding:.9rem;
 
 }
@@ -180,7 +180,7 @@ h1 {
     font-size:3rem;
     font-weight:800;
     text-align:center;
-    text-shadow:.2rem .2rem rgba(106, 105, 105, 0.5);
+    text-shadow:.2rem .2rem rgba(67, 168, 136, 0.5);
     transform:rotate(-6deg);
     letter-spacing:.3rem;  
 }
@@ -238,14 +238,14 @@ nav a {
     color:black;
     text-decoration:none;
     font-weight:bolder;
-    text-shadow:.3rem .3rem .3rem .3rem rgba(159, 244, 216, 0.5);
+    text-shadow:.3rem .3rem rgba(106, 105, 105, 0.5);
 }
 
 nav a:nth-child(2) {
     font-family:Roboto, Helvetica, sans-serif;
     font-size:1.8rem;
     color:rgb(103, 97, 97);
-    text-shadow:.2rem rgba(95,95,95,0.5);
+    text-shadow:.3rem .3rem rgba(106, 105, 105, 0.5);
     text-transform:uppercase;
     font-weight:bolder;
     text-shadow:.3rem solid black;
@@ -256,7 +256,7 @@ nav a:hover:nth-child(2) {
     font-family:Roboto, Helvetica, sans-serif;
     font-size:1.8rem;
     color:rgb(103, 97, 97);
-    text-shadow:.2rem rgba(95,95,95,0.5);
+    text-shadow:.3rem .3rem rgba(106, 105, 105, 0.5);
     text-decoration-line:line-through;
     text-transform:uppercase;
     font-weight:double;
@@ -276,7 +276,7 @@ nav a:active {
     font-family:Roboto, Helvetica, sans-serif;
     font-size:1.8rem;
     color:rgb(255, 255, 255);
-    background-color:rgb(59, 141, 115);
+    background-color:rgb(67, 168, 136);
 }
 
 .subscribe {
