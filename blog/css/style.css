@@ -129,7 +129,7 @@ body {
 
 .highlight {
     font-family:Ultra, Georgia, serif;
-    color:rgb(187, 252, 230));
+    color:rgb(159, 244, 216);
     background-color:black;
     text-transform:uppercase;
     text-shadow:.2rem rgba(67, 168, 136, 0.5);
@@ -257,7 +257,7 @@ p {
 }
 
 .figurerow {
-    background-color:rgb(187, 252, 230);
+    background-color:rgb(159, 244, 216);
     caption-side:bottom;
     margin-right:.5rem;
     margin-left:0;
@@ -270,7 +270,7 @@ p {
 }
 
 .figurerow:nth-child(3) {
-    background-color:rgb(187, 252, 230);
+    background-color:rgb(159, 244, 216);
     caption-side:bottom;
     margin-right:0;
     margin-left:0;
@@ -365,7 +365,7 @@ hr {
 }
 
 .subscribe a {
-    color:rgb(187, 252, 230));
+    color:rgb(159, 244, 216);
     font-family:Ultra, Georgia, serif;
     font-weight:400;
 }
@@ -373,11 +373,11 @@ hr {
 .subscribe a:hover {
     font-family:Ultra, Georgia, serif;
     font-weight:400;
-    color:rgb(187, 252, 230));
+    color:rgb(159, 244, 216);
 }
 
 .subscribe a:active {
-    color:rgb(187, 252, 230));
+    color:rgb(159, 244, 216);
     background-color:rgb(50, 50, 50);
 }
 
