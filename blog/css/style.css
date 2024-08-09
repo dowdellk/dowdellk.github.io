@@ -58,7 +58,7 @@ html {
 
 @font-face {
     font-family:Josefin Slab;
-    src: url(../fonts/serif/josefinslab-regular.ttf) format('truetype');
+    src: url(blogs/fonts/serif/josefinslab-regular.ttf) format('truetype');
     font-style:normal;
     font-weight:normal;
 }
