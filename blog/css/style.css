@@ -336,9 +336,9 @@ aside {
 hr {
     border-color:black;
     color:black;
-    width:250px;
+    width:248px;
     padding-left:0;
-    margin-left:1px;
+    margin-left:2px;
 }
 
 .expand {
