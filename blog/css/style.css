@@ -258,7 +258,7 @@ p {
 }
 
 .figurerow {
-    background-color:rgb(159, 244, 216);
+    background-color:rgb(187, 252, 230);
     caption-side:bottom;
     margin-right:.5rem;
     margin-left:0;
@@ -271,7 +271,7 @@ p {
 }
 
 .figurerow:nth-child(3) {
-    background-color:rgb(159, 244, 216);
+    background-color:rgb(187, 252, 230);
     caption-side:bottom;
     margin-right:0;
     margin-left:0;
