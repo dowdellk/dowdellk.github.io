@@ -257,7 +257,7 @@ p {
 }
 
 .figurerow {
-    background-color:rgb(159, 244, 216);
+    background-color:rgb(188, 252, 231);
     caption-side:bottom;
     margin-right:.5rem;
     margin-left:0;
@@ -270,7 +270,7 @@ p {
 }
 
 .figurerow:nth-child(3) {
-    background-color:rgb(159, 244, 216);
+    background-color:rgb(188, 252, 231);
     caption-side:bottom;
     margin-right:0;
     margin-left:0;
@@ -284,7 +284,7 @@ p {
 
 figcaption {
     font-family:Lato, Helvetica, sans-serif;
-    font-weight:300;
+    font-weight:400;
     text-align:left;
     font-size:1rem;
     margin-left:.1rem;
