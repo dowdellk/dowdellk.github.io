@@ -57,8 +57,8 @@ html {
 }
 
 @font-face {
-    font-family:Rozha One;
-    src: url(../fonts/serif/rozhaone-regular.ttf) format('opentype');
+    font-family:Josefin Slab;
+    src: url(../fonts/serif/josefinslab-regular.ttf) format('truetype');
     font-style:normal;
     font-weight:normal;
 }
@@ -284,7 +284,8 @@ p {
 }
 
 figcaption {
-    font-family:Rozha One, 'Times New Roman,' serif;
+    font-family:Josefin Slab, 'Times New Roman,' serif;
+    font-weight:300;
     text-align:left;
     font-size:1rem;
     margin-left:.1rem;
