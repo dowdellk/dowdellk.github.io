@@ -129,7 +129,7 @@ body {
 
 .highlight {
     font-family:Ultra, Georgia, serif;
-    color:rgb(159, 244, 216);
+    color:rgb(187, 252, 230));
     background-color:black;
     text-transform:uppercase;
     text-shadow:.2rem rgba(67, 168, 136, 0.5);
@@ -366,7 +366,7 @@ hr {
 }
 
 .subscribe a {
-    color:rgb(159, 244, 216);
+    color:rgb(187, 252, 230));
     font-family:Ultra, Georgia, serif;
     font-weight:400;
 }
@@ -374,11 +374,11 @@ hr {
 .subscribe a:hover {
     font-family:Ultra, Georgia, serif;
     font-weight:400;
-    color:rgb(159, 244, 216);
+    color:rgb(187, 252, 230));
 }
 
 .subscribe a:active {
-    color:rgb(159, 244, 216);
+    color:rgb(187, 252, 230));
     background-color:#6e7070;
     transform:rotate(-3deg);
 }
