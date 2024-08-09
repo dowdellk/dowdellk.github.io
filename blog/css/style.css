@@ -79,8 +79,8 @@ html {
 
 body {
     margin:0;
-    min-width:56.25rem;
     padding:0;
+    min-width:56.25rem;
 }
 
 .container {
