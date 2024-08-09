@@ -381,6 +381,10 @@ hr {
     background-color:rgb(50, 50, 50);
 }
 
+footer {
+    margin-bottom:2rem;
+}
+
 .footerstyle {
     margin-left:2rem;
     grid-template-columns:600px 871px;
