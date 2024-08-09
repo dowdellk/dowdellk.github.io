@@ -57,8 +57,8 @@ html {
 }
 
 @font-face {
-    font-family:Josefin Slab;
-    src: url(blogs/fonts/serif/josefinslab-regular.ttf) format('truetype');
+    font-family:Lato;
+    src: url(../fonts/serif/lato-regular.ttf) format('opentype');
     font-style:normal;
     font-weight:normal;
 }
@@ -284,10 +284,10 @@ p {
 }
 
 figcaption {
-    font-family:Garamond, Georgia, serif;
+    font-family:Lato, Helvetica, sans-serif;
     font-weight:300;
     text-align:left;
-    font-size:1.2rem;
+    font-size:1rem;
     margin-left:.1rem;
 }
 
