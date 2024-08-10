@@ -263,7 +263,7 @@ p {
     margin-left:0;
     object-fit:scale-down;
     display:inline-block;
-    max-width:365px;
+    max-width:368px;
     max-height:auto;
     min-width:300px;
     min-height:auto;
@@ -276,7 +276,7 @@ p {
     margin-left:0;
     object-fit:scale-down;
     display:inline-block;
-    max-width:365px;
+    max-width:368px;
     max-height:auto;
     min-width:300px;
     min-height:auto;
@@ -291,7 +291,7 @@ figcaption {
 }
 
 .imgrow {
-    max-width:365px;
+    max-width:368px;
     max-height:auto;
     min-width:300px;
     min-height:auto;
