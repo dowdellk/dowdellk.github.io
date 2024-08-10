@@ -270,7 +270,7 @@ p {
     margin-left:0;
     object-fit:scale-down;
     display:inline-block;
-    max-width:371px;
+    max-width:370px;
     max-height:auto;
     min-width:300px;
     min-height:auto;
@@ -283,7 +283,7 @@ p {
     margin-left:0;
     object-fit:scale-down;
     display:inline-block;
-    max-width:371px;
+    max-width:370px;
     max-height:auto;
     min-width:300px;
     min-height:auto;
@@ -291,14 +291,14 @@ p {
 
 figcaption {
     font-family:Lato, Helvetica, sans-serif;
-    font-weight:600;
+    font-weight:500;
     text-align:left;
     font-size:1rem;
     margin-left:.1rem;
 }
 
 .imgrow {
-    max-width:371px;
+    max-width:370px;
     max-height:auto;
     min-width:300px;
     min-height:auto;
