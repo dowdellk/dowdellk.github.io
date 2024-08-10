@@ -364,7 +364,7 @@ hr {
     text-decoration:none;
     text-align:center;
     background-color:black;
-    box-shadow:.2rem .2rem rgba(67, 168, 136, 0.5);
+    box-shadow:.2rem .2rem .2rem rgba(67, 168, 136, 0.5);
     border-radius:.8rem;
     padding:1rem;
     width:15rem;
