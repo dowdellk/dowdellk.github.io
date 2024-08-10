@@ -250,7 +250,7 @@ nav a:active:nth-child(2) {
     text-decoration-line:line-through;
     text-transform:uppercase;
     font-weight:double;
-    transform:rotate(-10deg);
+    transform:rotate(10deg);
     background-color:rgb(67, 168, 136);
 }
 
