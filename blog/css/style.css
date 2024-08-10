@@ -245,8 +245,7 @@ nav a:active {
 nav a:active:nth-child(2) {
     font-family:Roboto, Helvetica, sans-serif;
     font-size:1.8rem;
-    color:rgb(76, 72, 72);
-    text-shadow:.1rem .1rem .1rem rgba(169, 168, 168, 0.5);
+    color:white;
     text-decoration-line:line-through;
     text-transform:uppercase;
     font-weight:double;
