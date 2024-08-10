@@ -58,7 +58,7 @@ html {
 
 @font-face {
     font-family:Lato;
-    src: url(../fonts/serif/lato-regular.ttf) format('opentype');
+    src: url(../fonts/serif/Lato-regular.ttf) format('opentype');
     font-style:normal;
     font-weight:normal;
 }
@@ -75,6 +75,13 @@ html {
     src: url(../fonts/serif/ultra-regular.ttf) format('truetype');
     font-style:normal;
     font-weight:500;
+}
+
+@font-face {
+    font-family:Josefin Sans;
+    src: url(../fonts/serif/JosefinSans-Regular.ttf) format('opentype');
+    font-style:normal;
+    font-weight:300;
 }
 
 body {
@@ -409,7 +416,7 @@ footer {
 }
 
 .footerattributeserif {
-    font-family:Josefin Slab, 'Times New Roman,' serif;
+    font-family:Josefin Sans, 'Times New Roman,' serif;
     color:rgb(70, 70, 70);
 }
 
