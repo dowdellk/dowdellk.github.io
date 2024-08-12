@@ -281,7 +281,7 @@ p {
 .figurerow {
     background-color:rgb(188, 252, 231);
     caption-side:bottom;
-    margin-right:.5rem;
+    margin-right:.6rem;
     margin-left:0;
     object-fit:scale-down;
     display:inline-block;
