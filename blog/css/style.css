@@ -326,7 +326,7 @@ figcaption {
 } 
 
 aside {
-    max-width:19.875px;
+    max-width:19.875rem;
     border-left:.1rem solid black;
     padding:0 1.8rem 0 1.8rem;
     margin:0 0 0 1.8rem;
@@ -432,7 +432,7 @@ footer {
     text-justify:right;
     text-align:right;
     grid-column:2;
-    padding-right:2.75rem;
+    padding-right:3.25rem;
 }
 
 .footerattributeserif {
