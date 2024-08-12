@@ -185,10 +185,6 @@ h3 {
     margin-left:0;
 }
 
-h3:nth-child(n+3) {
-    max-width:250px;
-}
-
 .topnav {
     border-top:.1rem solid black;
     border-bottom:.1rem solid black;
