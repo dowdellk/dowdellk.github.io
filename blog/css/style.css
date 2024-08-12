@@ -183,6 +183,10 @@ h3 {
     padding-top:0;
     padding-bottom:0;
     margin-left:0;
+    
+}
+
+h3:nth-child(n+3) {
     max-width:250px;
 }
 
