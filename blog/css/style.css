@@ -139,7 +139,7 @@ body {
     margin-bottom:2rem;
     margin-left:0;
     margin-right:0;
-    width:100vw;   
+    width:97rem;   
 }
 
 .highlight {
@@ -193,7 +193,7 @@ h3 {
     text-align:left;
     word-spacing:7rem;
     white-space:nowrap;
-    width:100vw;
+    width:97rem;
     column-width:all;
     grid-row:2;
     display:inline-block;
@@ -304,6 +304,7 @@ p {
     max-height:auto;
     min-width:20rem;
     min-height:auto;
+}
 
 figcaption {
     font-family:Roboto, Helvetica, sans-serif;
