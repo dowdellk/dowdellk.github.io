@@ -287,9 +287,9 @@ p {
     margin-left:0;
     object-fit:scale-down;
     display:inline-block;
-    max-width:18.75rem;
+    max-width:33%;
     max-height:auto;
-    min-width:18.125rem;
+    min-width:30%;
     min-height:auto;
 }
 
@@ -300,9 +300,9 @@ p {
     margin-left:0;
     object-fit:scale-down;
     display:inline-block;
-    max-width:18.75rem;
+    max-width:33%;
     max-height:auto;
-    min-width:18.125rem;
+    min-width:30%;
     min-height:auto;
 }
 
@@ -317,9 +317,9 @@ figcaption {
 }
 
 .imgrow {
-    max-width:23.125rem;
+    max-width:33%;
     max-height:auto;
-    min-width:18.75rem;
+    min-width:30%;
     min-height:auto;
     object-fit:scale-down;
     display:inline-block;
