@@ -139,7 +139,7 @@ body {
     margin-bottom:2rem;
     margin-left:0;
     margin-right:0;
-    width:97rem;   
+    width:100vw;   
 }
 
 .highlight {
@@ -193,7 +193,7 @@ h3 {
     text-align:left;
     word-spacing:7rem;
     white-space:nowrap;
-    width:97rem;
+    width:100vw;
     column-width:all;
     grid-row:2;
     display:inline-block;
