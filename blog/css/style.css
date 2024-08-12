@@ -362,14 +362,14 @@ aside {
 hr {
     border-color:black;
     color:black;
-    width:250px;
+    width:15.625rem;
     padding-left:0;
     margin-left:.1rem;
 }
 
 .expand {
     font-family:Roboto, Helvetica, sans-serif;
-    font-size:6px;
+    font-size:.375rem;
     color:black;
     text-transform:none;
     text-decoration-line:none;
