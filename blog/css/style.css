@@ -317,9 +317,9 @@ figcaption {
 }
 
 .imgrow {
-    max-width:370px;
+    max-width:23.125rem;
     max-height:auto;
-    min-width:300px;
+    min-width:18.75rem;
     min-height:auto;
     object-fit:scale-down;
     display:inline-block;
@@ -342,9 +342,9 @@ aside {
 }
 
 .asidetext {
-    font-size:12px;
+    font-size:.75rem;
     margin-bottom:1.5rem;
-    width:252px;
+    width:15.75rem;
     margin-left:.2rem;
 }
 
