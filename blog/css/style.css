@@ -287,9 +287,9 @@ p {
     margin-left:0;
     object-fit:scale-down;
     display:inline-block;
-    max-width:33%;
+    max-width:23rem;
     max-height:auto;
-    min-width:30%;
+    min-width:20rem;
     min-height:auto;
 }
 
@@ -300,11 +300,10 @@ p {
     margin-left:0;
     object-fit:scale-down;
     display:inline-block;
-    max-width:33%;
+    max-width:23rem;
     max-height:auto;
-    min-width:30%;
+    min-width:20rem;
     min-height:auto;
-}
 
 figcaption {
     font-family:Roboto, Helvetica, sans-serif;
@@ -317,9 +316,9 @@ figcaption {
 }
 
 .imgrow {
-    max-width:33%;
+    max-width:23rem;
     max-height:auto;
-    min-width:30%;
+    min-width:20rem;
     min-height:auto;
     object-fit:scale-down;
     display:inline-block;
