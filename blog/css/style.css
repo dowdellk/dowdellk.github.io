@@ -98,7 +98,7 @@ body {
 }
 
 .container {
-    display:flex;
+    display:grid;
     column-count:2;
     grid-template-columns:71rem 26rem;
     grid-column-gap:.4rem;
