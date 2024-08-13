@@ -132,6 +132,12 @@ body {
     align-self:left;
 } 
 
+img {
+    width:100%;
+    max-width:416px;
+    height:auto;
+}
+
 .h1wrapper {
     
     display:inline-block;
