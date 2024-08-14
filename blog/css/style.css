@@ -294,8 +294,8 @@ p {
     display:inline-block;
     max-width:23rem;
     max-height:auto;
-    width:100%;
-    height:auto;
+    min-width:20rem;
+    min-height:auto;
 }
 
 .figurerow:nth-child(3) {
@@ -307,8 +307,8 @@ p {
     display:inline-block;
     max-width:23rem;
     max-height:auto;
-    width:100%;
-    height:auto;
+    min-width:20rem;
+    min-height:auto;
 }
 
 figcaption {
