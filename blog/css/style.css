@@ -95,8 +95,7 @@ html {
 body {
     margin:0;
     padding:0;
-    /* min-width:56.25rem; */
-    width:100vw;
+    min-width:56.25rem;
 }
 
 .container {
@@ -145,8 +144,7 @@ img {
     margin-bottom:2rem;
     margin-left:0;
     margin-right:0;
-    width:100vw;
-    /* width:95rem;  */
+    width:95rem;
 }
 
 .highlight {
