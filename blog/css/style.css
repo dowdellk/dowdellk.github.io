@@ -356,14 +356,14 @@ aside {
     margin-bottom:-.5rem;
     margin-left:0;
     padding-bottom:0;
-    padding-left:0;
+    padding-left:.1rem;
     transform:translate(-15%);
 }
 
 hr {
     border-color:black;
     color:black;
-    width:15.625rem;
+    width:15.75rem;
     padding-left:0;
     margin-left:.1rem;
 }
