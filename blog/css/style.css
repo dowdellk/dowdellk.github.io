@@ -351,13 +351,13 @@ aside {
 
 .imgaside {
     display:inline-block;
-    width:150%;
+    width:145%;
     height:auto;
     margin-bottom:-.5rem;
     margin-left:0;
     padding-bottom:0;
     padding-left:0;
-    transform:translate(-16%);
+    transform:translate(-18%);
 }
 
 hr {
