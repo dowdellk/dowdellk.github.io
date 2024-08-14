@@ -322,10 +322,6 @@ figcaption {
 }
 
 .imgrow {
-    /* max-width:23rem;
-    max-height:auto;
-    min-width:20rem;
-    min-height:auto; */
     object-fit:scale-down;
     display:inline-block;
 } 
@@ -355,8 +351,8 @@ aside {
 
 .imgaside {
     display:inline-block;
-    width:18.125rem;
-    height:18.75rem;
+    width:91%;
+    height:auto;
     margin-bottom:-.5rem;
     margin-left:0;
     padding-bottom:0;
