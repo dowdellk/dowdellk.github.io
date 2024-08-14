@@ -131,11 +131,11 @@ body {
     align-self:left;
 } 
 
-/* img {
+img {
     width:100%;
     max-width:416px;
     height:auto;
-} */
+} 
 
 .h1wrapper {
     
@@ -351,8 +351,8 @@ aside {
 
 .imgaside {
     display:inline-block;
-    width:18.125rem;
-    height:18.75rem;
+    width:130%;
+    height:auto;
     margin-bottom:-.5rem;
     margin-left:0;
     padding-bottom:0;
