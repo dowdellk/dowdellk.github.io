@@ -357,7 +357,7 @@ aside {
     margin-left:0;
     padding-bottom:0;
     padding-left:0;
-    transform:translate(-16%);
+    transform:translate(-15%);
 }
 
 hr {
@@ -433,7 +433,7 @@ footer {
     text-justify:right;
     text-align:right;
     grid-column:2;
-    padding-right:3.5rem;
+    padding-right:4rem;
 }
 
 .footerattributeserif {
