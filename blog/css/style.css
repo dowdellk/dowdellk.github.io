@@ -360,8 +360,7 @@ aside {
     height:18.75rem;
     margin-bottom:-.5rem;
     margin-left:0;
-    padding-bottom:0;
-    padding-left:0;
+    padding:0 0 0 0;
     transform:translate(-20%);
 }
 
