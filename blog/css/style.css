@@ -322,10 +322,10 @@ figcaption {
 }
 
 .imgrow {
-    max-width:23rem;
+    /* max-width:23rem;
     max-height:auto;
     min-width:20rem;
-    min-height:auto;
+    min-height:auto; */
     object-fit:scale-down;
     display:inline-block;
 } 
