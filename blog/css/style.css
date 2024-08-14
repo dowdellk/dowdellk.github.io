@@ -332,7 +332,7 @@ figcaption {
 } 
 
 aside {
-    max-width:35%;
+    max-width:19.875rem;
     border-left:.1rem solid black;
     padding:0 1.8rem 0 1.8rem;
     margin:0 0 0 1.8rem;
