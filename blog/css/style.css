@@ -132,11 +132,11 @@ body {
     align-self:left;
 } 
 
-/* img {
+img {
     width:100%;
     max-width:416px;
     height:auto;
-} */
+} 
 
 .h1wrapper {
     
@@ -322,14 +322,14 @@ figcaption {
     padding:.7rem 0 1rem .5rem;
 }
 
-.imgrow {
+/* .imgrow {
     max-width:23rem;
     max-height:auto;
     min-width:20rem;
     min-height:auto;
     object-fit:scale-down;
     display:inline-block;
-} 
+} */
 
 aside {
     max-width:19.875rem;
