@@ -140,7 +140,7 @@ img {
 .h1wrapper {
     
     display:inline-block;
-    padding:.6rem 5% 2rem 5%;
+    padding:.6rem 0 2rem 0;
     margin-bottom:2rem;
     margin-left:0;
     margin-right:0;
