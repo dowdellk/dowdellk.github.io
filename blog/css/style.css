@@ -354,7 +354,7 @@ aside {
     margin-left:.2rem;
 }
 
-.imgaside {
+/* .imgaside {
     display:inline-block;
     width:18.125rem;
     height:18.75rem;
@@ -363,7 +363,7 @@ aside {
     padding-bottom:0;
     padding-left:0;
     transform:translate(-20%);
-}
+} */
 
 hr {
     border-color:black;
