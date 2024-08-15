@@ -95,7 +95,7 @@ html {
 body {
     margin:0;
     padding:0;
-    width:95rem;
+    max-width:95rem;
 }
 
 .container {
@@ -144,7 +144,7 @@ img {
     margin-bottom:2rem;
     margin-left:0;
     margin-right:0;
-    width:95rem;
+    width:100%;
 }
 
 .highlight {
@@ -198,7 +198,7 @@ h3 {
     text-align:left;
     word-spacing:7rem;
     white-space:nowrap;
-    width:95rem;
+    width:100%;
     column-width:all;
     grid-row:2;
     display:inline-block;
