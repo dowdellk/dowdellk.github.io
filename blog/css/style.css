@@ -294,7 +294,7 @@ p {
     display:inline-block;
     max-width:23rem;
     max-height:auto;
-    min-width:33%;
+    min-width:15rem;
     min-height:auto;
 }
 
@@ -307,7 +307,7 @@ p {
     display:inline-block;
     max-width:23.5rem;
     max-height:auto;
-    min-width:33%;
+    min-width:15rem;
     min-height:auto;
 }
 
@@ -324,7 +324,6 @@ figcaption {
 .imgrow {
     object-fit:scale-down;
     display:inline-block;
-    width:33%;
 } 
 
 aside {
