@@ -357,13 +357,13 @@ aside {
     margin-left:0;
     padding-bottom:0;
     padding-left:0;
-    transform:translate(-15.5%);
+    transform:translate(-16%);
 }
 
 hr {
     border-color:black;
     color:black;
-    width:60%;
+    width:90%;
     padding-left:0;
     margin-left:0;
 }
