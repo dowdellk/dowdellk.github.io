@@ -101,7 +101,7 @@ body {
 .container {
     display:grid;
     column-count:2;
-    grid-template-columns:77.5% 22.5%;
+    grid-template-columns:77% 23%;
     grid-column-gap:.4rem;
     grid-template-rows:auto auto auto;
     margin-left:2rem;
@@ -327,7 +327,7 @@ figcaption {
 } 
 
 aside {
-    max-width:20.5rem;
+    max-width:21rem;
     border-left:.1rem solid black;
     padding:0 1.8rem 0 1.8rem;
     margin:0 0 0 1.8rem;
