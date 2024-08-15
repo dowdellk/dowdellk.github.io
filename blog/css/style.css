@@ -199,6 +199,7 @@ h3 {
     word-spacing:7rem;
     white-space:nowrap;
     width:100%;
+    max-width:95rem;
     column-width:all;
     grid-row:2;
     display:inline-block;
