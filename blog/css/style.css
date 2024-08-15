@@ -415,7 +415,7 @@ footer {
 
 .footerstyle {
     margin-left:2rem;
-    grid-template-columns:40rem 55rem;
+    grid-template-columns:42% 58%;
     column-count:2;
     grid-row:1;
     grid-template-rows:auto;
