@@ -324,6 +324,7 @@ figcaption {
 .imgrow {
     object-fit:scale-down;
     display:inline-block;
+    width:33%;
 } 
 
 aside {
