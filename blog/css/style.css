@@ -133,7 +133,7 @@ body {
 
 img {
     width:100%;
-    max-width:370px;
+    max-width:371px;
     height:auto;
 } 
 
@@ -293,7 +293,7 @@ p {
     margin-left:0;
     object-fit:scale-down;
     display:inline-block;
-    max-width:23rem;
+    max-width:23.5rem;
     max-height:auto;
     min-width:15rem;
     min-height:auto;
