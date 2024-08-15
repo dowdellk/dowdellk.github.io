@@ -345,7 +345,7 @@ aside {
 .asidetext {
     font-size:.75rem;
     margin-bottom:1.5rem;
-    width:15.75rem;
+    width:90%;
     margin-left:.1rem;
 }
 
@@ -433,7 +433,7 @@ footer {
     text-justify:right;
     text-align:right;
     grid-column:2;
-    padding-right:20%;
+    padding-right:3%;
 }
 
 .footerattributeserif {
