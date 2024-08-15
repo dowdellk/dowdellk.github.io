@@ -198,7 +198,7 @@ h3 {
     text-align:left;
     word-spacing:7rem;
     white-space:nowrap;
-    max-width:100%;
+    width:100%;
     column-width:all;
     grid-row:2;
     display:inline-block;
