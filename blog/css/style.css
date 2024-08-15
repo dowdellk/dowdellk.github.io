@@ -101,7 +101,7 @@ body {
 .container {
     display:grid;
     column-count:2;
-    grid-template-columns:71rem 26rem;
+    grid-template-columns:73% 27%;
     grid-column-gap:.4rem;
     grid-template-rows:auto auto auto;
     margin-left:2rem;
